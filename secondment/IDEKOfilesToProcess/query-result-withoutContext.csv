@@ -1,0 +1,449 @@
+﻿user,service,value,s
+afgomez,110000556 DEC,1,1696924160
+afgomez,grinding-force-stats,1,1699448165
+afgomez,grinding-material-fed,1,1699448165
+afgomez,LG600B6-100636-IDK,1,1697013963
+afgomez,LG600B6-100636-IDK,1,1699448165
+afgomez,TDOMONWH2X1,0.5,1696924160
+afgomez,TDOMONWH2X1,0.5,1697013963
+afgomez,TDOMONWH2X1,0.5,1699448165
+afgomez,TDOMONWH2X1,1,1696924160
+afgomez,TDOMONWH2X1,1,1697013963
+afgomez,TDOMONWH2X1,1,1699448165
+afgomez,Wheelhead2Power,1,1696924160
+afgomez,Wheelhead2Power,1,1697013963
+dbarrenetxea,110000556 DEC,1,1695712669
+dbarrenetxea,110000556 DEC,1,1695719808
+dbarrenetxea,110000556 DEC,1,1695974644
+dbarrenetxea,110000556 DEC,1,1696235962
+dbarrenetxea,110000556 DEC,1,1696252132
+dbarrenetxea,110000556 DEC,1,1696269078
+dbarrenetxea,110000556 DEC,1,1696315412
+dbarrenetxea,110000556 DEC,1,1696396209
+dbarrenetxea,110000556 DEC,1,1696399219
+dbarrenetxea,110000556 DEC,1,1696409190
+dbarrenetxea,110000556 DEC,1,1696417669
+dbarrenetxea,110000556 DEC,1,1696432557
+dbarrenetxea,110000556 DEC,1,1696439221
+dbarrenetxea,110000556 DEC,1,1696492466
+dbarrenetxea,110000556 DEC,1,1696495346
+dbarrenetxea,110000556 DEC,1,1696515594
+dbarrenetxea,110000556 DEC,1,1696574567
+dbarrenetxea,110000556 DEC,1,1696584197
+dbarrenetxea,110000556 DEC,1,1696588683
+dbarrenetxea,110000556 DEC,1,1696601954
+dbarrenetxea,110000556 DEC,1,1696833946
+dbarrenetxea,110000556 DEC,1,1696853613
+dbarrenetxea,110000556 DEC,1,1696927289
+dbarrenetxea,110000556 DEC,1,1696947802
+dbarrenetxea,110000556 DEC,1,1697440392
+dbarrenetxea,110000556 DEC,1,1697533040
+dbarrenetxea,110000556 DEC,1,1697792878
+dbarrenetxea,110000556 DEC,1,1697811041
+dbarrenetxea,110000556 DEC,1,1697822875
+dbarrenetxea,110000556 DEC,1,1698220506
+dbarrenetxea,110000556 DEC,1,1698751430
+dbarrenetxea,110000556 DEC,1,1699883345
+dbarrenetxea,110000556 DEC,1,1699887765
+dbarrenetxea,110000556 DEC,1,1699907890
+dbarrenetxea,110000556 DEC,1,1699945049
+dbarrenetxea,110000556 DEC,1,1699955808
+dbarrenetxea,basic-basic-stats,1,1696269078
+dbarrenetxea,basic-basic-stats,1,1696584197
+dbarrenetxea,basic-basic-stats,1,1696588683
+dbarrenetxea,basic-quotient,1,1696269078
+dbarrenetxea,CAxisSpeed_actual,1,1695326615
+dbarrenetxea,CAxisSpeed_actual,1,1696315412
+dbarrenetxea,CAxisSpeed_actual,1,1696396209
+dbarrenetxea,CAxisSpeed_actual,1,1696399219
+dbarrenetxea,CAxisSpeed_actual,1,1697822875
+dbarrenetxea,common-fft,1,1696315412
+dbarrenetxea,common-moving-average,1,1695715725
+dbarrenetxea,common-moving-average,1,1696269078
+dbarrenetxea,common-moving-average,1,1696315412
+dbarrenetxea,common-moving-average,1,1696409190
+dbarrenetxea,common-moving-average,1,1696601954
+dbarrenetxea,common-moving-average,1,1696833946
+dbarrenetxea,common-moving-average,1,1697822875
+dbarrenetxea,common-negate,1,1696269078
+dbarrenetxea,grinding-center,1,1695712669
+dbarrenetxea,grinding-center,1,1695715725
+dbarrenetxea,grinding-center,1,1695730449
+dbarrenetxea,grinding-center,1,1696252132
+dbarrenetxea,grinding-center,1,1696269078
+dbarrenetxea,grinding-center,1,1696315412
+dbarrenetxea,grinding-center,1,1696396209
+dbarrenetxea,grinding-center,1,1696399219
+dbarrenetxea,grinding-center,1,1696409190
+dbarrenetxea,grinding-center,1,1696439221
+dbarrenetxea,grinding-center,1,1696492466
+dbarrenetxea,grinding-center,1,1696584197
+dbarrenetxea,grinding-center,1,1697533040
+dbarrenetxea,grinding-center,1,1697811041
+dbarrenetxea,grinding-center,1,1698751430
+dbarrenetxea,grinding-center,1,1699887765
+dbarrenetxea,grinding-center,1,1699955808
+dbarrenetxea,grinding-contact-point,1,1696315412
+dbarrenetxea,grinding-defect-spark,1,1695730449
+dbarrenetxea,grinding-defect-spark,1,1696269078
+dbarrenetxea,grinding-defect-spark,1,1697822875
+dbarrenetxea,grinding-force-stats,1,1695730449
+dbarrenetxea,grinding-force-stats,1,1696269078
+dbarrenetxea,grinding-force-stats,1,1696315412
+dbarrenetxea,grinding-material-fed,1,1696315412
+dbarrenetxea,grinding-power-stats,1,1695715725
+dbarrenetxea,grinding-power-stats,1,1695730449
+dbarrenetxea,grinding-power-stats,1,1696252132
+dbarrenetxea,grinding-power-stats,1,1696269078
+dbarrenetxea,grinding-power-stats,1,1696315412
+dbarrenetxea,grinding-power-stats,1,1696396209
+dbarrenetxea,grinding-power-stats,1,1696399219
+dbarrenetxea,grinding-power-stats,1,1696409190
+dbarrenetxea,grinding-power-stats,1,1696492466
+dbarrenetxea,grinding-power-stats,1,1696515594
+dbarrenetxea,grinding-power-stats,1,1696584197
+dbarrenetxea,grinding-power-stats,1,1696588683
+dbarrenetxea,grinding-power-stats,1,1696601954
+dbarrenetxea,grinding-power-stats,1,1696927289
+dbarrenetxea,grinding-power-stats,1,1696947802
+dbarrenetxea,grinding-power-stats,1,1697440392
+dbarrenetxea,grinding-power-stats,1,1697533040
+dbarrenetxea,grinding-power-stats,1,1697811041
+dbarrenetxea,grinding-power-stats,1,1698751430
+dbarrenetxea,grinding-power-stats,1,1699883345
+dbarrenetxea,grinding-power-stats,1,1699887765
+dbarrenetxea,grinding-power-stats,1,1699907890
+dbarrenetxea,grinding-power-stats,1,1699945049
+dbarrenetxea,grinding-power-stats,1,1699955808
+dbarrenetxea,grinding-specific-energy,1,1695712669
+dbarrenetxea,grinding-specific-energy,1,1695715725
+dbarrenetxea,grinding-specific-energy,1,1695730449
+dbarrenetxea,grinding-specific-energy,1,1696269078
+dbarrenetxea,grinding-specific-energy,1,1696315412
+dbarrenetxea,grinding-specific-energy,1,1699955808
+dbarrenetxea,grinding-stiffness,1,1695730449
+dbarrenetxea,grinding-stiffness,1,1696315412
+dbarrenetxea,LG1000 - 100672 IDK,1,1695326615
+dbarrenetxea,LG600B6-100636-IDK,1,1695715725
+dbarrenetxea,LG600B6-100636-IDK,1,1695730449
+dbarrenetxea,LG600B6-100636-IDK,1,1696835328
+dbarrenetxea,TDOMONWH2X1,0.5,1695326615
+dbarrenetxea,TDOMONWH2X1,0.5,1695712669
+dbarrenetxea,TDOMONWH2X1,0.5,1695715725
+dbarrenetxea,TDOMONWH2X1,0.5,1695719808
+dbarrenetxea,TDOMONWH2X1,0.5,1695730449
+dbarrenetxea,TDOMONWH2X1,0.5,1695974644
+dbarrenetxea,TDOMONWH2X1,0.5,1696235962
+dbarrenetxea,TDOMONWH2X1,0.5,1696252132
+dbarrenetxea,TDOMONWH2X1,0.5,1696269078
+dbarrenetxea,TDOMONWH2X1,0.5,1696315412
+dbarrenetxea,TDOMONWH2X1,0.5,1696396209
+dbarrenetxea,TDOMONWH2X1,0.5,1696399219
+dbarrenetxea,TDOMONWH2X1,0.5,1696409190
+dbarrenetxea,TDOMONWH2X1,0.5,1696417669
+dbarrenetxea,TDOMONWH2X1,0.5,1696432557
+dbarrenetxea,TDOMONWH2X1,0.5,1696439221
+dbarrenetxea,TDOMONWH2X1,0.5,1696492466
+dbarrenetxea,TDOMONWH2X1,0.5,1696495346
+dbarrenetxea,TDOMONWH2X1,0.5,1696515594
+dbarrenetxea,TDOMONWH2X1,0.5,1696574567
+dbarrenetxea,TDOMONWH2X1,0.5,1696584197
+dbarrenetxea,TDOMONWH2X1,0.5,1696588683
+dbarrenetxea,TDOMONWH2X1,0.5,1696601954
+dbarrenetxea,TDOMONWH2X1,0.5,1696833946
+dbarrenetxea,TDOMONWH2X1,0.5,1696835328
+dbarrenetxea,TDOMONWH2X1,0.5,1696853613
+dbarrenetxea,TDOMONWH2X1,0.5,1696927289
+dbarrenetxea,TDOMONWH2X1,0.5,1696947802
+dbarrenetxea,TDOMONWH2X1,0.5,1697440392
+dbarrenetxea,TDOMONWH2X1,0.5,1697533040
+dbarrenetxea,TDOMONWH2X1,0.5,1697792878
+dbarrenetxea,TDOMONWH2X1,0.5,1697811041
+dbarrenetxea,TDOMONWH2X1,0.5,1697822875
+dbarrenetxea,TDOMONWH2X1,0.5,1698220506
+dbarrenetxea,TDOMONWH2X1,0.5,1698751430
+dbarrenetxea,TDOMONWH2X1,0.5,1699883345
+dbarrenetxea,TDOMONWH2X1,0.5,1699887765
+dbarrenetxea,TDOMONWH2X1,0.5,1699907890
+dbarrenetxea,TDOMONWH2X1,0.5,1699945049
+dbarrenetxea,TDOMONWH2X1,0.5,1699955808
+dbarrenetxea,TDOMONWH2X1,1,1695326615
+dbarrenetxea,TDOMONWH2X1,1,1695712669
+dbarrenetxea,TDOMONWH2X1,1,1695715725
+dbarrenetxea,TDOMONWH2X1,1,1695719808
+dbarrenetxea,TDOMONWH2X1,1,1695730449
+dbarrenetxea,TDOMONWH2X1,1,1695974644
+dbarrenetxea,TDOMONWH2X1,1,1696235962
+dbarrenetxea,TDOMONWH2X1,1,1696252132
+dbarrenetxea,TDOMONWH2X1,1,1696269078
+dbarrenetxea,TDOMONWH2X1,1,1696315412
+dbarrenetxea,TDOMONWH2X1,1,1696396209
+dbarrenetxea,TDOMONWH2X1,1,1696399219
+dbarrenetxea,TDOMONWH2X1,1,1696409190
+dbarrenetxea,TDOMONWH2X1,1,1696417669
+dbarrenetxea,TDOMONWH2X1,1,1696432557
+dbarrenetxea,TDOMONWH2X1,1,1696439221
+dbarrenetxea,TDOMONWH2X1,1,1696492466
+dbarrenetxea,TDOMONWH2X1,1,1696495346
+dbarrenetxea,TDOMONWH2X1,1,1696515594
+dbarrenetxea,TDOMONWH2X1,1,1696574567
+dbarrenetxea,TDOMONWH2X1,1,1696584197
+dbarrenetxea,TDOMONWH2X1,1,1696588683
+dbarrenetxea,TDOMONWH2X1,1,1696601954
+dbarrenetxea,TDOMONWH2X1,1,1696833946
+dbarrenetxea,TDOMONWH2X1,1,1696835328
+dbarrenetxea,TDOMONWH2X1,1,1696853613
+dbarrenetxea,TDOMONWH2X1,1,1696927289
+dbarrenetxea,TDOMONWH2X1,1,1696947802
+dbarrenetxea,TDOMONWH2X1,1,1697440392
+dbarrenetxea,TDOMONWH2X1,1,1697533040
+dbarrenetxea,TDOMONWH2X1,1,1697792878
+dbarrenetxea,TDOMONWH2X1,1,1697811041
+dbarrenetxea,TDOMONWH2X1,1,1697822875
+dbarrenetxea,TDOMONWH2X1,1,1698220506
+dbarrenetxea,TDOMONWH2X1,1,1698751430
+dbarrenetxea,TDOMONWH2X1,1,1699883345
+dbarrenetxea,TDOMONWH2X1,1,1699887765
+dbarrenetxea,TDOMONWH2X1,1,1699907890
+dbarrenetxea,TDOMONWH2X1,1,1699945049
+dbarrenetxea,TDOMONWH2X1,1,1699955808
+dbarrenetxea,TDOMONWH2X1Z1,0.5,1695715725
+dbarrenetxea,TDOMONWH2X1Z1,1,1695715725
+dbarrenetxea,Wheelhead2Power,1,1695326615
+dbarrenetxea,Wheelhead2Power,1,1695712669
+dbarrenetxea,Wheelhead2Power,1,1695715725
+dbarrenetxea,Wheelhead2Power,1,1695730449
+dbarrenetxea,Wheelhead2Power,1,1696252132
+dbarrenetxea,Wheelhead2Power,1,1696269078
+dbarrenetxea,Wheelhead2Power,1,1696315412
+dbarrenetxea,Wheelhead2Power,1,1696396209
+dbarrenetxea,Wheelhead2Power,1,1696399219
+dbarrenetxea,Wheelhead2Power,1,1696409190
+dbarrenetxea,Wheelhead2Power,1,1696492466
+dbarrenetxea,Wheelhead2Power,1,1696495346
+dbarrenetxea,Wheelhead2Power,1,1696515594
+dbarrenetxea,Wheelhead2Power,1,1696584197
+dbarrenetxea,Wheelhead2Power,1,1696588683
+dbarrenetxea,Wheelhead2Power,1,1696601954
+dbarrenetxea,Wheelhead2Power,1,1696833946
+dbarrenetxea,Wheelhead2Power,1,1696927289
+dbarrenetxea,Wheelhead2Power,1,1696947802
+dbarrenetxea,Wheelhead2Power,1,1697440392
+dbarrenetxea,Wheelhead2Power,1,1697533040
+dbarrenetxea,Wheelhead2Power,1,1697811041
+dbarrenetxea,Wheelhead2Power,1,1697822875
+dbarrenetxea,Wheelhead2Power,1,1698220506
+dbarrenetxea,Wheelhead2Power,1,1698751430
+dbarrenetxea,Wheelhead2Power,1,1699887765
+dbarrenetxea,Wheelhead2Speed_actual,1,1695326615
+dbarrenetxea,Wheelhead2Speed_actual,1,1696315412
+dbarrenetxea,Wheelhead2Speed_actual,1,1696396209
+dbarrenetxea,Wheelhead2Speed_actual,1,1696399219
+dbarrenetxea,Wheelhead2Speed_actual,1,1697822875
+dbarrenetxea,X1AxisForce,1,1695326615
+dbarrenetxea,X1AxisForce,1,1696315412
+dbarrenetxea,X1AxisForce,1,1697822875
+dbarrenetxea,X1AxisPosition_actual,1,1697822875
+dbarrenetxea,Z1AxisForce,1,1695326615
+dbarrenetxea,Z1AxisForce,1,1696315412
+dbarrenetxea,Z1AxisForce,1,1696409190
+dbarrenetxea,Z1AxisForce,1,1696601954
+dbarrenetxea,Z1AxisSpeed_commanded,1,1696315412
+dbarrenetxea,Z1AxisSpeed_commanded,1,1696396209
+dbarrenetxea,Z1AxisSpeed_commanded,1,1696399219
+eamilibia,110000556 DEC,1,1696321606
+eamilibia,110000556 DEC,1,1696405293
+eamilibia,110000556 DEC,1,1696485567
+eamilibia,110000556 DEC,1,1696485819
+eamilibia,110000556 DEC,1,1696572638
+eamilibia,110000556 DEC,1,1697465112
+eamilibia,110000556 DEC,1,1697531179
+eamilibia,110000556 DEC,1,1697636194
+eamilibia,110000556 DEC,1,1697702199
+eamilibia,110000556 DEC,1,1697714789
+eamilibia,110000556 DEC,1,1697786582
+eamilibia,110000556 DEC,1,1698215495
+eamilibia,common-fft,1,1697531179
+eamilibia,common-fft,1,1697636194
+eamilibia,grinding-force-stats,1,1697531179
+eamilibia,grinding-power-stats,1,1696572638
+eamilibia,grinding-power-stats,1,1697465112
+eamilibia,grinding-power-stats,1,1697531179
+eamilibia,grinding-power-stats,1,1697636194
+eamilibia,grinding-power-stats,1,1697702199
+eamilibia,grinding-power-stats,1,1697714789
+eamilibia,TDOMONWH2X1,0.5,1696321606
+eamilibia,TDOMONWH2X1,0.5,1696405293
+eamilibia,TDOMONWH2X1,0.5,1696485567
+eamilibia,TDOMONWH2X1,0.5,1696485819
+eamilibia,TDOMONWH2X1,0.5,1696572638
+eamilibia,TDOMONWH2X1,0.5,1697465112
+eamilibia,TDOMONWH2X1,0.5,1697531179
+eamilibia,TDOMONWH2X1,0.5,1697636194
+eamilibia,TDOMONWH2X1,0.5,1697702199
+eamilibia,TDOMONWH2X1,0.5,1697714789
+eamilibia,TDOMONWH2X1,0.5,1697786582
+eamilibia,TDOMONWH2X1,0.5,1698215495
+eamilibia,TDOMONWH2X1,1,1696321606
+eamilibia,TDOMONWH2X1,1,1696405293
+eamilibia,TDOMONWH2X1,1,1696485567
+eamilibia,TDOMONWH2X1,1,1696485819
+eamilibia,TDOMONWH2X1,1,1696572638
+eamilibia,TDOMONWH2X1,1,1697465112
+eamilibia,TDOMONWH2X1,1,1697531179
+eamilibia,TDOMONWH2X1,1,1697636194
+eamilibia,TDOMONWH2X1,1,1697702199
+eamilibia,TDOMONWH2X1,1,1697714789
+eamilibia,TDOMONWH2X1,1,1697786582
+eamilibia,TDOMONWH2X1,1,1698215495
+eamilibia,Wheelhead2Power,1,1696321606
+eamilibia,Wheelhead2Power,1,1696405293
+eamilibia,Wheelhead2Power,1,1696572638
+eamilibia,Wheelhead2Power,1,1697465112
+eamilibia,Wheelhead2Power,1,1697531179
+eamilibia,Wheelhead2Power,1,1697636194
+eamilibia,Wheelhead2Power,1,1697714789
+eamilibia,Wheelhead2Power,1,1698215495
+eurkia,LG400A-100648 (RECC06) TX,1,1694601316
+eurkia,TDOMONWH2X1,0.5,1694601316
+eurkia,TDOMONWH2X1,1,1694601316
+eurkia,Wheelhead1Power,1,1694601316
+ggutierrezeizaguirre,110000556 DEC,1,1695713191
+ggutierrezeizaguirre,110000556 DEC,1,1695985929
+ggutierrezeizaguirre,110000556 DEC,1,1696254549
+ggutierrezeizaguirre,110000556 DEC,1,1696315578
+ggutierrezeizaguirre,110000556 DEC,1,1696325453
+ggutierrezeizaguirre,110000556 DEC,1,1696325466
+ggutierrezeizaguirre,110000556 DEC,1,1696328464
+ggutierrezeizaguirre,110000556 DEC,1,1696332351
+ggutierrezeizaguirre,grinding-center,1,1695985929
+ggutierrezeizaguirre,grinding-center,1,1696315578
+ggutierrezeizaguirre,grinding-contact-point,1,1696325453
+ggutierrezeizaguirre,grinding-force-stats,1,1696325453
+ggutierrezeizaguirre,grinding-material-fed,1,1696325453
+ggutierrezeizaguirre,grinding-power-stats,1,1695628873
+ggutierrezeizaguirre,grinding-power-stats,1,1695633767
+ggutierrezeizaguirre,grinding-power-stats,1,1695635276
+ggutierrezeizaguirre,grinding-power-stats,1,1695985772
+ggutierrezeizaguirre,grinding-power-stats,1,1695985929
+ggutierrezeizaguirre,grinding-power-stats,1,1696315578
+ggutierrezeizaguirre,grinding-power-stats,1,1696325453
+ggutierrezeizaguirre,grinding-power-stats,1,1696325466
+ggutierrezeizaguirre,grinding-power-stats,1,1696328464
+ggutierrezeizaguirre,grinding-power-stats,1,1696332351
+ggutierrezeizaguirre,grinding-specific-energy,1,1695985929
+ggutierrezeizaguirre,grinding-specific-energy,1,1696315578
+ggutierrezeizaguirre,grinding-specific-energy,1,1696325453
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695628873
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695633767
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695635276
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695712935
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695985772
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695628873
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695633767
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695635276
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695712935
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695713191
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695985772
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695985929
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696254549
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696315578
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696325453
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696325466
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696328464
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696332351
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695628873
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695633767
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695635276
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695712935
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695713191
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695985772
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695985929
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696254549
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696315578
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696325453
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696325466
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696328464
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696332351
+ggutierrezeizaguirre,Wheelhead2Power,1,1695713191
+ggutierrezeizaguirre,Wheelhead2Power,1,1696254549
+ggutierrezeizaguirre,Wheelhead2Power,1,1696315578
+ggutierrezeizaguirre,Wheelhead2Power,1,1696328464
+ggutierrezeizaguirre,X1AxisPosition_actual,1,1696254549
+ggutierrezeizaguirre,X1AxisPosition_actual,1,1696328464
+ggutierrezeizaguirre,X1AxisSpeed_commanded,1,1696254549
+ggutierrezeizaguirre,X1AxisSpeed_commanded,1,1696315578
+ggutierrezeizaguirre,Z1AxisSpeed_commanded,1,1696254549
+iricondo,CAxisPower,1,1696243851
+iricondo,DM2 Test,1,1696243851
+iricondo,ESTARTA315FV-100626 (E-315,1,1696575691
+iricondo,grinding-material-fed,1,1696243851
+iricondo,LG600-B8-110000578 LINAMAR,1,1696243844
+iricondo,TDOMONWH2X1,0.5,1696243844
+iricondo,TDOMONWH2X1,0.5,1696243851
+iricondo,TDOMONWH2X1,0.5,1696575691
+iricondo,TDOMONWH2X1,1,1696243844
+iricondo,TDOMONWH2X1,1,1696243851
+iricondo,TDOMONWH2X1,1,1696575691
+jalvarez,CAxisSpeed_actual,1,1696238941
+jalvarez,LG600B6-100636-IDK,1,1696238941
+jalvarez,LG600B6-100636-IDK,1,1698395400
+jalvarez,LG600B6-100636-IDK,1,1698403653
+jalvarez,TDOMONWH1X1,0.5,1696238941
+jalvarez,TDOMONWH1X1,0.5,1698395400
+jalvarez,TDOMONWH1X1,0.5,1698403653
+jalvarez,TDOMONWH1X1,1,1696238941
+jalvarez,TDOMONWH1X1,1,1698395400
+jalvarez,TDOMONWH1X1,1,1698403653
+jalvarez,TDOMONWH2X1,0.5,1696238941
+jalvarez,TDOMONWH2X1,0.5,1698395400
+jalvarez,TDOMONWH2X1,0.5,1698403653
+jalvarez,TDOMONWH2X1,1,1696238941
+jalvarez,TDOMONWH2X1,1,1698395400
+jalvarez,TDOMONWH2X1,1,1698403653
+jalvarez,Wheelhead1Power,1,1698395400
+pruiz,110000556 DEC,1,1696422672
+pruiz,110000556 DEC,1,1696499620
+pruiz,CAxisSpeed_actual,1,1696422680
+pruiz,common-negate,1,1696422680
+pruiz,grinding-center,1,1696422680
+pruiz,grinding-specific-energy,1,1696422680
+pruiz,LG600B6-100636-IDK,1,1696422680
+pruiz,LG600B6-100636-IDK,1,1699952664
+pruiz,TDOMONWH2X1,0.5,1696422672
+pruiz,TDOMONWH2X1,0.5,1696422680
+pruiz,TDOMONWH2X1,0.5,1696499620
+pruiz,TDOMONWH2X1,0.5,1699952664
+pruiz,TDOMONWH2X1,1,1696422672
+pruiz,TDOMONWH2X1,1,1696422680
+pruiz,TDOMONWH2X1,1,1696499620
+pruiz,TDOMONWH2X1,1,1699952664
+pruiz,TDOMONWH2Z1,0.5,1696422680
+pruiz,TDOMONWH2Z1,0.5,1699952664
+pruiz,TDOMONWH2Z1,1,1696422680
+pruiz,TDOMONWH2Z1,1,1699952664
+pruiz,Wheelhead2Power,1,1696422680
+pruiz,Wheelhead2Power,1,1696499620
+pruiz,Wheelhead2Speed_actual,1,1696499620
+pruiz,X1AxisForce,1,1696499620
+pruiz,X1AxisPosition_actual,1,1696499620
+pruiz,Z1AxisForce,1,1696422680
+pruiz,Z1AxisForce,1,1696499620
+ubueno,110000556 DEC,1,1696486209
+ubueno,LG600B6-100636-IDK,1,1695634086
+ubueno,LG600B6-100636-IDK,1,1695710096
+ubueno,LG600B6-100636-IDK,1,1696581600
+ubueno,TDOMONWH2X1,0.5,1695634086
+ubueno,TDOMONWH2X1,0.5,1695710096
+ubueno,TDOMONWH2X1,0.5,1696486209
+ubueno,TDOMONWH2X1,0.5,1696581600
+ubueno,TDOMONWH2X1,1,1695634086
+ubueno,TDOMONWH2X1,1,1695710096
+ubueno,TDOMONWH2X1,1,1696486209
+ubueno,TDOMONWH2X1,1,1696581600
+ubueno,TDOMONWH2X1Z1,0.5,1695634086
+ubueno,TDOMONWH2X1Z1,1,1695634086
+ubueno,Wheelhead2Power,1,1695634086
+ubueno,Wheelhead2Power,1,1695710096
+ubueno,Wheelhead2Speed_actual,1,1695634086
+ubueno,X1AxisPosition_actual,1,1695634086

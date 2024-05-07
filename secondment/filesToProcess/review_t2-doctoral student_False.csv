@@ -1,0 +1,118 @@
+,user,service,sum
+0,0WFqeFiPx3K,capuccino decaffeinated,2.0
+1,0a4Qn,arabiar tea,0.0
+2,0a4Qn,capuccino,2.0
+3,0a4Qn,cortado,0.5
+4,0a4Qn,cortado decaffeinated,0.5
+5,0a4Qn,expresso,0.0
+6,0a4Qn,long_coffee,0.0
+7,0a4Qn,long_decaffeinated,0.0
+8,0a4Qn,milk_coffee,3.0
+9,0a4Qn,milk_coffee kafeinagabe,1.0
+10,0a4Qn,txokolate white,4.0
+11,2qDLEBNv,chocolate,1.0
+12,2qDLEBNv,hazelnut_cappuccino,1.0
+13,2qDLEBNv,long_coffee,2.0
+14,2qDLEBNv,milk_coffee,1.0
+15,55reHHf,milk_coffee,1.0
+16,5pVcV5V,chocolate,16.0
+17,5pVcV5V,hazelnut_cappuccino,16.0
+18,93xlxT,chocolate,131.0
+19,93xlxT,cortado decaffeinated,40.0
+20,93xlxT,expresso,2.0
+21,93xlxT,hazelnut_cappuccino,4.0
+22,CCMAqXtVdM,cortado,5.0
+23,CkfZksM2rBrL,cortado,4.0
+24,CuAgSlJwl,arabiar tea,0.0
+25,CuAgSlJwl,cortado,28.0
+26,CuAgSlJwl,expresso,1.0
+27,CuAgSlJwl,milk_coffee,137.0
+28,CuAgSlJwl,milk_coffee kafeinagabe,0.5
+29,D6F0qp7s7,chocolate_milk,2.0
+30,D6F0qp7s7,cortado,74.0
+31,D6F0qp7s7,milk_coffee,1.0
+32,F96Kv,hazelnut_cappuccino,0.5
+33,F96Kv,long_decaffeinated,0.0
+34,F96Kv,milk_coffee,2.0
+35,FHZemZ,capuccino,8.0
+36,FHZemZ,milk_coffee,2.0
+37,FmxgvxmU,capuccino decaffeinated,1.0
+38,FmxgvxmU,chocolate,3.0
+39,FmxgvxmU,cortado,166.0
+40,FmxgvxmU,cortado decaffeinated,2.0
+41,FmxgvxmU,decaffeinated,1.0
+42,FmxgvxmU,expresso,10.0
+43,FmxgvxmU,light_coffee,2.0
+44,FmxgvxmU,milk_coffee,5.0
+45,I3RXU,cortado,0.0
+46,I3RXU,milk_coffee,9.0
+47,IQtg13hB,expresso,49.0
+48,M8TX69h8,milk_coffee,2.0
+49,OCUnH,arabiar tea,0.0
+50,OCUnH,capuccino,0.5
+51,OCUnH,chocolate_milk,2.0
+52,OCUnH,cortado,0.5
+53,OCUnH,decaffeinated,0.0
+54,OCUnH,expresso,4.0
+55,OCUnH,hazelnut_cappuccino,0.0
+56,OCUnH,light_coffee,0.0
+57,OCUnH,long_coffee,0.0
+58,OCUnH,long_decaffeinated,0.0
+59,OCUnH,milk_coffee,1.0
+60,OJwzAJ33l,chocolate,4.0
+61,OJwzAJ33l,expresso,5.0
+62,OJwzAJ33l,long_coffee,10.0
+63,P5BAwzTfB,hazelnut_cappuccino,3.0
+64,TRFKSXv,expresso,1.0
+65,Vhpk5shpkk,arabiar tea,3.0
+66,Vhpk5shpkk,capuccino,2.0
+67,Vhpk5shpkk,capuccino decaffeinated,1.0
+68,Vhpk5shpkk,decaffeinated,15.0
+69,Vhpk5shpkk,expresso,4.0
+70,Vhpk5shpkk,hazelnut_cappuccino,1.0
+71,Yx3rQ,capuccino,5.0
+72,Yx3rQ,chocolate,0.0
+73,Yx3rQ,cortado,3.5
+74,Yx3rQ,cortado decaffeinated,0.0
+75,Yx3rQ,decaffeinated,0.0
+76,Yx3rQ,hazelnut_cappuccino,1.0
+77,Yx3rQ,long_coffee,9.0
+78,anH4HDH,capuccino,2.0
+79,anH4HDH,expresso,2.0
+80,d4guBrpB,capuccino,2.0
+81,d4guBrpB,cortado,98.0
+82,d4guBrpB,cortado decaffeinated,41.0
+83,d4guBrpB,expresso,4.0
+84,fJlBu,capuccino,2.0
+85,fJlBu,cortado,0.5
+86,fJlBu,milk_coffee,2.0
+87,fJlBu,txokolate white,0.0
+88,gKUuuzg9,chocolate,30.0
+89,gKUuuzg9,light_coffee,1.0
+90,gKUuuzg9,milk_coffee,129.0
+91,ieuWQ,capuccino decaffeinated,1.0
+92,ieuWQ,cortado,0.0
+93,ieuWQ,decaffeinated,1.0
+94,ieuWQ,light_coffee,0.0
+95,iia5SP5,hazelnut_cappuccino,1.0
+96,jb1CjU1HF,chocolate,5.0
+97,jb1CjU1HF,milk_coffee,3.0
+98,larri45h,long_coffee,3.0
+99,oS7WZT0,milk_coffee,29.0
+100,qpzNDzybrsi,expresso,1.0
+101,sZfLY,expresso,1.0
+102,uhDooz5uD,expresso,1.0
+103,uhDooz5uD,milk_coffee,26.0
+104,vRXyI,capuccino,0.0
+105,vRXyI,expresso,0.5
+106,vRXyI,long_coffee,3.0
+107,vRXyI,milk_coffee,0.0
+108,ws0cho3,cortado,1.0
+109,ws0cho3,decaffeinated,0.0
+110,ws0cho3,expresso,3.0
+111,ws0cho3,hazelnut_cappuccino,4.0
+112,ws0cho3,milk_coffee,2.0
+113,ymETMF4M4,capuccino,34.0
+114,ymETMF4M4,decaffeinated,1.0
+115,ymETMF4M4,long_coffee,14.0
+116,ymETMF4M4,long_decaffeinated,8.0

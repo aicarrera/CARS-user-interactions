@@ -1,0 +1,449 @@
+﻿user,service,value,s,task
+afgomez,110000556 DEC,1,1696924160,machine_selection
+afgomez,grinding-force-stats,1,1699448165,indicators-selection
+afgomez,grinding-material-fed,1,1699448165,indicators-selection
+afgomez,LG600B6-100636-IDK,1,1697013963,machine_selection
+afgomez,LG600B6-100636-IDK,1,1699448165,machine_selection
+afgomez,TDOMONWH2X1,0.5,1696924160,schema_monitoring
+afgomez,TDOMONWH2X1,0.5,1697013963,schema_monitoring
+afgomez,TDOMONWH2X1,0.5,1699448165,schema_monitoring
+afgomez,TDOMONWH2X1,1,1696924160,schema_monitoring
+afgomez,TDOMONWH2X1,1,1697013963,schema_monitoring
+afgomez,TDOMONWH2X1,1,1699448165,schema_monitoring
+afgomez,Wheelhead2Power,1,1696924160,signal_monitoring
+afgomez,Wheelhead2Power,1,1697013963,signal_monitoring
+dbarrenetxea,110000556 DEC,1,1695712669,machine_selection
+dbarrenetxea,110000556 DEC,1,1695719808,machine_selection
+dbarrenetxea,110000556 DEC,1,1695974644,machine_selection
+dbarrenetxea,110000556 DEC,1,1696235962,machine_selection
+dbarrenetxea,110000556 DEC,1,1696252132,machine_selection
+dbarrenetxea,110000556 DEC,1,1696269078,machine_selection
+dbarrenetxea,110000556 DEC,1,1696315412,machine_selection
+dbarrenetxea,110000556 DEC,1,1696396209,machine_selection
+dbarrenetxea,110000556 DEC,1,1696399219,machine_selection
+dbarrenetxea,110000556 DEC,1,1696409190,machine_selection
+dbarrenetxea,110000556 DEC,1,1696417669,machine_selection
+dbarrenetxea,110000556 DEC,1,1696432557,machine_selection
+dbarrenetxea,110000556 DEC,1,1696439221,machine_selection
+dbarrenetxea,110000556 DEC,1,1696492466,machine_selection
+dbarrenetxea,110000556 DEC,1,1696495346,machine_selection
+dbarrenetxea,110000556 DEC,1,1696515594,machine_selection
+dbarrenetxea,110000556 DEC,1,1696574567,machine_selection
+dbarrenetxea,110000556 DEC,1,1696584197,machine_selection
+dbarrenetxea,110000556 DEC,1,1696588683,machine_selection
+dbarrenetxea,110000556 DEC,1,1696601954,machine_selection
+dbarrenetxea,110000556 DEC,1,1696833946,machine_selection
+dbarrenetxea,110000556 DEC,1,1696853613,machine_selection
+dbarrenetxea,110000556 DEC,1,1696927289,machine_selection
+dbarrenetxea,110000556 DEC,1,1696947802,machine_selection
+dbarrenetxea,110000556 DEC,1,1697440392,machine_selection
+dbarrenetxea,110000556 DEC,1,1697533040,machine_selection
+dbarrenetxea,110000556 DEC,1,1697792878,machine_selection
+dbarrenetxea,110000556 DEC,1,1697811041,machine_selection
+dbarrenetxea,110000556 DEC,1,1697822875,machine_selection
+dbarrenetxea,110000556 DEC,1,1698220506,machine_selection
+dbarrenetxea,110000556 DEC,1,1698751430,machine_selection
+dbarrenetxea,110000556 DEC,1,1699883345,machine_selection
+dbarrenetxea,110000556 DEC,1,1699887765,machine_selection
+dbarrenetxea,110000556 DEC,1,1699907890,machine_selection
+dbarrenetxea,110000556 DEC,1,1699945049,machine_selection
+dbarrenetxea,110000556 DEC,1,1699955808,machine_selection
+dbarrenetxea,basic-basic-stats,1,1696269078,indicators-selection
+dbarrenetxea,basic-basic-stats,1,1696584197,indicators-selection
+dbarrenetxea,basic-basic-stats,1,1696588683,indicators-selection
+dbarrenetxea,basic-quotient,1,1696269078,indicators-selection
+dbarrenetxea,CAxisSpeed_actual,1,1695326615,signal_monitoring
+dbarrenetxea,CAxisSpeed_actual,1,1696315412,signal_monitoring
+dbarrenetxea,CAxisSpeed_actual,1,1696396209,signal_monitoring
+dbarrenetxea,CAxisSpeed_actual,1,1696399219,signal_monitoring
+dbarrenetxea,CAxisSpeed_actual,1,1697822875,signal_monitoring
+dbarrenetxea,common-fft,1,1696315412,transformation_execution
+dbarrenetxea,common-moving-average,1,1695715725,transformation_execution
+dbarrenetxea,common-moving-average,1,1696269078,transformation_execution
+dbarrenetxea,common-moving-average,1,1696315412,transformation_execution
+dbarrenetxea,common-moving-average,1,1696409190,transformation_execution
+dbarrenetxea,common-moving-average,1,1696601954,transformation_execution
+dbarrenetxea,common-moving-average,1,1696833946,transformation_execution
+dbarrenetxea,common-moving-average,1,1697822875,transformation_execution
+dbarrenetxea,common-negate,1,1696269078,transformation_execution
+dbarrenetxea,grinding-center,1,1695712669,transformation_execution
+dbarrenetxea,grinding-center,1,1695715725,transformation_execution
+dbarrenetxea,grinding-center,1,1695730449,transformation_execution
+dbarrenetxea,grinding-center,1,1696252132,transformation_execution
+dbarrenetxea,grinding-center,1,1696269078,transformation_execution
+dbarrenetxea,grinding-center,1,1696315412,transformation_execution
+dbarrenetxea,grinding-center,1,1696396209,transformation_execution
+dbarrenetxea,grinding-center,1,1696399219,transformation_execution
+dbarrenetxea,grinding-center,1,1696409190,transformation_execution
+dbarrenetxea,grinding-center,1,1696439221,transformation_execution
+dbarrenetxea,grinding-center,1,1696492466,transformation_execution
+dbarrenetxea,grinding-center,1,1696584197,transformation_execution
+dbarrenetxea,grinding-center,1,1697533040,transformation_execution
+dbarrenetxea,grinding-center,1,1697811041,transformation_execution
+dbarrenetxea,grinding-center,1,1698751430,transformation_execution
+dbarrenetxea,grinding-center,1,1699887765,transformation_execution
+dbarrenetxea,grinding-center,1,1699955808,transformation_execution
+dbarrenetxea,grinding-contact-point,1,1696315412,indicators-selection
+dbarrenetxea,grinding-defect-spark,1,1695730449,indicators-selection
+dbarrenetxea,grinding-defect-spark,1,1696269078,indicators-selection
+dbarrenetxea,grinding-defect-spark,1,1697822875,indicators-selection
+dbarrenetxea,grinding-force-stats,1,1695730449,indicators-selection
+dbarrenetxea,grinding-force-stats,1,1696269078,indicators-selection
+dbarrenetxea,grinding-force-stats,1,1696315412,indicators-selection
+dbarrenetxea,grinding-material-fed,1,1696315412,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1695715725,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1695730449,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696252132,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696269078,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696315412,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696396209,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696399219,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696409190,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696492466,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696515594,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696584197,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696588683,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696601954,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696927289,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1696947802,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1697440392,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1697533040,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1697811041,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1698751430,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1699883345,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1699887765,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1699907890,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1699945049,indicators-selection
+dbarrenetxea,grinding-power-stats,1,1699955808,indicators-selection
+dbarrenetxea,grinding-specific-energy,1,1695712669,indicators-selection
+dbarrenetxea,grinding-specific-energy,1,1695715725,indicators-selection
+dbarrenetxea,grinding-specific-energy,1,1695730449,indicators-selection
+dbarrenetxea,grinding-specific-energy,1,1696269078,indicators-selection
+dbarrenetxea,grinding-specific-energy,1,1696315412,indicators-selection
+dbarrenetxea,grinding-specific-energy,1,1699955808,indicators-selection
+dbarrenetxea,grinding-stiffness,1,1695730449,indicators-selection
+dbarrenetxea,grinding-stiffness,1,1696315412,indicators-selection
+dbarrenetxea,LG1000 - 100672 IDK,1,1695326615,machine_selection
+dbarrenetxea,LG600B6-100636-IDK,1,1695715725,machine_selection
+dbarrenetxea,LG600B6-100636-IDK,1,1695730449,machine_selection
+dbarrenetxea,LG600B6-100636-IDK,1,1696835328,machine_selection
+dbarrenetxea,TDOMONWH2X1,0.5,1695326615,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1695712669,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1695715725,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1695719808,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1695730449,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1695974644,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696235962,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696252132,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696269078,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696315412,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696396209,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696399219,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696409190,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696417669,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696432557,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696439221,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696492466,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696495346,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696515594,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696574567,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696584197,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696588683,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696601954,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696833946,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696835328,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696853613,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696927289,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1696947802,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1697440392,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1697533040,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1697792878,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1697811041,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1697822875,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1698220506,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1698751430,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1699883345,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1699887765,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1699907890,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1699945049,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,0.5,1699955808,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1695326615,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1695712669,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1695715725,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1695719808,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1695730449,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1695974644,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696235962,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696252132,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696269078,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696315412,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696396209,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696399219,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696409190,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696417669,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696432557,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696439221,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696492466,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696495346,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696515594,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696574567,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696584197,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696588683,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696601954,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696833946,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696835328,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696853613,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696927289,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1696947802,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1697440392,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1697533040,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1697792878,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1697811041,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1697822875,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1698220506,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1698751430,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1699883345,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1699887765,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1699907890,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1699945049,schema_monitoring
+dbarrenetxea,TDOMONWH2X1,1,1699955808,schema_monitoring
+dbarrenetxea,TDOMONWH2X1Z1,0.5,1695715725,schema_monitoring
+dbarrenetxea,TDOMONWH2X1Z1,1,1695715725,schema_monitoring
+dbarrenetxea,Wheelhead2Power,1,1695326615,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1695712669,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1695715725,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1695730449,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696252132,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696269078,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696315412,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696396209,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696399219,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696409190,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696492466,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696495346,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696515594,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696584197,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696588683,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696601954,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696833946,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696927289,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1696947802,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1697440392,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1697533040,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1697811041,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1697822875,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1698220506,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1698751430,signal_monitoring
+dbarrenetxea,Wheelhead2Power,1,1699887765,signal_monitoring
+dbarrenetxea,Wheelhead2Speed_actual,1,1695326615,signal_monitoring
+dbarrenetxea,Wheelhead2Speed_actual,1,1696315412,signal_monitoring
+dbarrenetxea,Wheelhead2Speed_actual,1,1696396209,signal_monitoring
+dbarrenetxea,Wheelhead2Speed_actual,1,1696399219,signal_monitoring
+dbarrenetxea,Wheelhead2Speed_actual,1,1697822875,signal_monitoring
+dbarrenetxea,X1AxisForce,1,1695326615,signal_monitoring
+dbarrenetxea,X1AxisForce,1,1696315412,signal_monitoring
+dbarrenetxea,X1AxisForce,1,1697822875,signal_monitoring
+dbarrenetxea,X1AxisPosition_actual,1,1697822875,signal_monitoring
+dbarrenetxea,Z1AxisForce,1,1695326615,signal_monitoring
+dbarrenetxea,Z1AxisForce,1,1696315412,signal_monitoring
+dbarrenetxea,Z1AxisForce,1,1696409190,signal_monitoring
+dbarrenetxea,Z1AxisForce,1,1696601954,signal_monitoring
+dbarrenetxea,Z1AxisSpeed_commanded,1,1696315412,signal_monitoring
+dbarrenetxea,Z1AxisSpeed_commanded,1,1696396209,signal_monitoring
+dbarrenetxea,Z1AxisSpeed_commanded,1,1696399219,signal_monitoring
+eamilibia,110000556 DEC,1,1696321606,machine_selection
+eamilibia,110000556 DEC,1,1696405293,machine_selection
+eamilibia,110000556 DEC,1,1696485567,machine_selection
+eamilibia,110000556 DEC,1,1696485819,machine_selection
+eamilibia,110000556 DEC,1,1696572638,machine_selection
+eamilibia,110000556 DEC,1,1697465112,machine_selection
+eamilibia,110000556 DEC,1,1697531179,machine_selection
+eamilibia,110000556 DEC,1,1697636194,machine_selection
+eamilibia,110000556 DEC,1,1697702199,machine_selection
+eamilibia,110000556 DEC,1,1697714789,machine_selection
+eamilibia,110000556 DEC,1,1697786582,machine_selection
+eamilibia,110000556 DEC,1,1698215495,machine_selection
+eamilibia,common-fft,1,1697531179,transformation_execution
+eamilibia,common-fft,1,1697636194,transformation_execution
+eamilibia,grinding-force-stats,1,1697531179,indicators-selection
+eamilibia,grinding-power-stats,1,1696572638,indicators-selection
+eamilibia,grinding-power-stats,1,1697465112,indicators-selection
+eamilibia,grinding-power-stats,1,1697531179,indicators-selection
+eamilibia,grinding-power-stats,1,1697636194,indicators-selection
+eamilibia,grinding-power-stats,1,1697702199,indicators-selection
+eamilibia,grinding-power-stats,1,1697714789,indicators-selection
+eamilibia,TDOMONWH2X1,0.5,1696321606,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1696405293,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1696485567,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1696485819,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1696572638,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1697465112,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1697531179,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1697636194,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1697702199,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1697714789,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1697786582,schema_monitoring
+eamilibia,TDOMONWH2X1,0.5,1698215495,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1696321606,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1696405293,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1696485567,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1696485819,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1696572638,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1697465112,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1697531179,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1697636194,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1697702199,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1697714789,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1697786582,schema_monitoring
+eamilibia,TDOMONWH2X1,1,1698215495,schema_monitoring
+eamilibia,Wheelhead2Power,1,1696321606,signal_monitoring
+eamilibia,Wheelhead2Power,1,1696405293,signal_monitoring
+eamilibia,Wheelhead2Power,1,1696572638,signal_monitoring
+eamilibia,Wheelhead2Power,1,1697465112,signal_monitoring
+eamilibia,Wheelhead2Power,1,1697531179,signal_monitoring
+eamilibia,Wheelhead2Power,1,1697636194,signal_monitoring
+eamilibia,Wheelhead2Power,1,1697714789,signal_monitoring
+eamilibia,Wheelhead2Power,1,1698215495,signal_monitoring
+eurkia,LG400A-100648 (RECC06) TX,1,1694601316,machine_selection
+eurkia,TDOMONWH2X1,0.5,1694601316,schema_monitoring
+eurkia,TDOMONWH2X1,1,1694601316,schema_monitoring
+eurkia,Wheelhead1Power,1,1694601316,signal_monitoring
+ggutierrezeizaguirre,110000556 DEC,1,1695713191,machine_selection
+ggutierrezeizaguirre,110000556 DEC,1,1695985929,machine_selection
+ggutierrezeizaguirre,110000556 DEC,1,1696254549,machine_selection
+ggutierrezeizaguirre,110000556 DEC,1,1696315578,machine_selection
+ggutierrezeizaguirre,110000556 DEC,1,1696325453,machine_selection
+ggutierrezeizaguirre,110000556 DEC,1,1696325466,machine_selection
+ggutierrezeizaguirre,110000556 DEC,1,1696328464,machine_selection
+ggutierrezeizaguirre,110000556 DEC,1,1696332351,machine_selection
+ggutierrezeizaguirre,grinding-center,1,1695985929,transformation_execution
+ggutierrezeizaguirre,grinding-center,1,1696315578,transformation_execution
+ggutierrezeizaguirre,grinding-contact-point,1,1696325453,indicators-selection
+ggutierrezeizaguirre,grinding-force-stats,1,1696325453,indicators-selection
+ggutierrezeizaguirre,grinding-material-fed,1,1696325453,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1695628873,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1695633767,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1695635276,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1695985772,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1695985929,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1696315578,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1696325453,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1696325466,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1696328464,indicators-selection
+ggutierrezeizaguirre,grinding-power-stats,1,1696332351,indicators-selection
+ggutierrezeizaguirre,grinding-specific-energy,1,1695985929,indicators-selection
+ggutierrezeizaguirre,grinding-specific-energy,1,1696315578,indicators-selection
+ggutierrezeizaguirre,grinding-specific-energy,1,1696325453,indicators-selection
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695628873,machine_selection
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695633767,machine_selection
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695635276,machine_selection
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695712935,machine_selection
+ggutierrezeizaguirre,LG600B6-100636-IDK,1,1695985772,machine_selection
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695628873,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695633767,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695635276,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695712935,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695713191,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695985772,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1695985929,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696254549,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696315578,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696325453,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696325466,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696328464,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,0.5,1696332351,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695628873,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695633767,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695635276,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695712935,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695713191,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695985772,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1695985929,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696254549,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696315578,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696325453,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696325466,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696328464,schema_monitoring
+ggutierrezeizaguirre,TDOMONWH2X1,1,1696332351,schema_monitoring
+ggutierrezeizaguirre,Wheelhead2Power,1,1695713191,signal_monitoring
+ggutierrezeizaguirre,Wheelhead2Power,1,1696254549,signal_monitoring
+ggutierrezeizaguirre,Wheelhead2Power,1,1696315578,signal_monitoring
+ggutierrezeizaguirre,Wheelhead2Power,1,1696328464,signal_monitoring
+ggutierrezeizaguirre,X1AxisPosition_actual,1,1696254549,signal_monitoring
+ggutierrezeizaguirre,X1AxisPosition_actual,1,1696328464,signal_monitoring
+ggutierrezeizaguirre,X1AxisSpeed_commanded,1,1696254549,signal_monitoring
+ggutierrezeizaguirre,X1AxisSpeed_commanded,1,1696315578,signal_monitoring
+ggutierrezeizaguirre,Z1AxisSpeed_commanded,1,1696254549,signal_monitoring
+iricondo,CAxisPower,1,1696243851,signal_monitoring
+iricondo,DM2 Test,1,1696243851,machine_selection
+iricondo,ESTARTA315FV-100626 (E-315,1,1696575691,machine_selection
+iricondo,grinding-material-fed,1,1696243851,indicators-selection
+iricondo,LG600-B8-110000578 LINAMAR,1,1696243844,machine_selection
+iricondo,TDOMONWH2X1,0.5,1696243844,schema_monitoring
+iricondo,TDOMONWH2X1,0.5,1696243851,schema_monitoring
+iricondo,TDOMONWH2X1,0.5,1696575691,schema_monitoring
+iricondo,TDOMONWH2X1,1,1696243844,schema_monitoring
+iricondo,TDOMONWH2X1,1,1696243851,schema_monitoring
+iricondo,TDOMONWH2X1,1,1696575691,schema_monitoring
+jalvarez,CAxisSpeed_actual,1,1696238941,signal_monitoring
+jalvarez,LG600B6-100636-IDK,1,1696238941,machine_selection
+jalvarez,LG600B6-100636-IDK,1,1698395400,machine_selection
+jalvarez,LG600B6-100636-IDK,1,1698403653,machine_selection
+jalvarez,TDOMONWH1X1,0.5,1696238941,schema_monitoring
+jalvarez,TDOMONWH1X1,0.5,1698395400,schema_monitoring
+jalvarez,TDOMONWH1X1,0.5,1698403653,schema_monitoring
+jalvarez,TDOMONWH1X1,1,1696238941,schema_monitoring
+jalvarez,TDOMONWH1X1,1,1698395400,schema_monitoring
+jalvarez,TDOMONWH1X1,1,1698403653,schema_monitoring
+jalvarez,TDOMONWH2X1,0.5,1696238941,schema_monitoring
+jalvarez,TDOMONWH2X1,0.5,1698395400,schema_monitoring
+jalvarez,TDOMONWH2X1,0.5,1698403653,schema_monitoring
+jalvarez,TDOMONWH2X1,1,1696238941,schema_monitoring
+jalvarez,TDOMONWH2X1,1,1698395400,schema_monitoring
+jalvarez,TDOMONWH2X1,1,1698403653,schema_monitoring
+jalvarez,Wheelhead1Power,1,1698395400,signal_monitoring
+pruiz,110000556 DEC,1,1696422672,machine_selection
+pruiz,110000556 DEC,1,1696499620,machine_selection
+pruiz,CAxisSpeed_actual,1,1696422680,signal_monitoring
+pruiz,common-negate,1,1696422680,transformation_execution
+pruiz,grinding-center,1,1696422680,transformation_execution
+pruiz,grinding-specific-energy,1,1696422680,indicators-selection
+pruiz,LG600B6-100636-IDK,1,1696422680,machine_selection
+pruiz,LG600B6-100636-IDK,1,1699952664,machine_selection
+pruiz,TDOMONWH2X1,0.5,1696422672,schema_monitoring
+pruiz,TDOMONWH2X1,0.5,1696422680,schema_monitoring
+pruiz,TDOMONWH2X1,0.5,1696499620,schema_monitoring
+pruiz,TDOMONWH2X1,0.5,1699952664,schema_monitoring
+pruiz,TDOMONWH2X1,1,1696422672,schema_monitoring
+pruiz,TDOMONWH2X1,1,1696422680,schema_monitoring
+pruiz,TDOMONWH2X1,1,1696499620,schema_monitoring
+pruiz,TDOMONWH2X1,1,1699952664,schema_monitoring
+pruiz,TDOMONWH2Z1,0.5,1696422680,schema_monitoring
+pruiz,TDOMONWH2Z1,0.5,1699952664,schema_monitoring
+pruiz,TDOMONWH2Z1,1,1696422680,schema_monitoring
+pruiz,TDOMONWH2Z1,1,1699952664,schema_monitoring
+pruiz,Wheelhead2Power,1,1696422680,signal_monitoring
+pruiz,Wheelhead2Power,1,1696499620,signal_monitoring
+pruiz,Wheelhead2Speed_actual,1,1696499620,signal_monitoring
+pruiz,X1AxisForce,1,1696499620,signal_monitoring
+pruiz,X1AxisPosition_actual,1,1696499620,signal_monitoring
+pruiz,Z1AxisForce,1,1696422680,signal_monitoring
+pruiz,Z1AxisForce,1,1696499620,signal_monitoring
+ubueno,110000556 DEC,1,1696486209,machine_selection
+ubueno,LG600B6-100636-IDK,1,1695634086,machine_selection
+ubueno,LG600B6-100636-IDK,1,1695710096,machine_selection
+ubueno,LG600B6-100636-IDK,1,1696581600,machine_selection
+ubueno,TDOMONWH2X1,0.5,1695634086,schema_monitoring
+ubueno,TDOMONWH2X1,0.5,1695710096,schema_monitoring
+ubueno,TDOMONWH2X1,0.5,1696486209,schema_monitoring
+ubueno,TDOMONWH2X1,0.5,1696581600,schema_monitoring
+ubueno,TDOMONWH2X1,1,1695634086,schema_monitoring
+ubueno,TDOMONWH2X1,1,1695710096,schema_monitoring
+ubueno,TDOMONWH2X1,1,1696486209,schema_monitoring
+ubueno,TDOMONWH2X1,1,1696581600,schema_monitoring
+ubueno,TDOMONWH2X1Z1,0.5,1695634086,schema_monitoring
+ubueno,TDOMONWH2X1Z1,1,1695634086,schema_monitoring
+ubueno,Wheelhead2Power,1,1695634086,signal_monitoring
+ubueno,Wheelhead2Power,1,1695710096,signal_monitoring
+ubueno,Wheelhead2Speed_actual,1,1695634086,signal_monitoring
+ubueno,X1AxisPosition_actual,1,1695634086,signal_monitoring

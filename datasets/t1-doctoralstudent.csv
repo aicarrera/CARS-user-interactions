@@ -1,0 +1,118 @@
+user,service,sumInteractions,nro_interactions,iri
+0WFqeFiPx3K,capuccino decaffeinated,1.0,1.0,http://ontologies/interactioncontext#rating_0_2
+0a4Qn,arabiar tea,0.0,14.5,http://ontologies/interactioncontext#rating_27_0
+0a4Qn,capuccino,4.0,14.5,http://ontologies/interactioncontext#rating_27_1
+0a4Qn,cortado,1.0,14.5,http://ontologies/interactioncontext#rating_27_5
+0a4Qn,cortado decaffeinated,1.0,14.5,http://ontologies/interactioncontext#rating_27_6
+0a4Qn,expresso,0.0,14.5,http://ontologies/interactioncontext#rating_27_8
+0a4Qn,long_coffee,0.0,14.5,http://ontologies/interactioncontext#rating_27_11
+0a4Qn,long_decaffeinated,0.0,14.5,http://ontologies/interactioncontext#rating_27_12
+0a4Qn,milk_coffee,6.0,14.5,http://ontologies/interactioncontext#rating_27_13
+0a4Qn,milk_coffee kafeinagabe,0.5,14.5,http://ontologies/interactioncontext#rating_27_14
+0a4Qn,txokolate white,2.0,14.5,http://ontologies/interactioncontext#rating_27_15
+13zpiFiAzJ,expresso,2.0,2.0,http://ontologies/interactioncontext#rating_1_8
+2qDLEBNv,chocolate,4.0,27.0,http://ontologies/interactioncontext#rating_2_3
+2qDLEBNv,expresso,3.0,27.0,http://ontologies/interactioncontext#rating_2_8
+2qDLEBNv,hazelnut_cappuccino,2.0,27.0,http://ontologies/interactioncontext#rating_2_9
+2qDLEBNv,long_coffee,15.0,27.0,http://ontologies/interactioncontext#rating_2_11
+2qDLEBNv,milk_coffee,3.0,27.0,http://ontologies/interactioncontext#rating_2_13
+5pVcV5V,chocolate,39.0,142.0,http://ontologies/interactioncontext#rating_4_3
+5pVcV5V,hazelnut_cappuccino,101.0,142.0,http://ontologies/interactioncontext#rating_4_9
+5pVcV5V,milk_coffee,2.0,142.0,http://ontologies/interactioncontext#rating_4_13
+93xlxT,chocolate,133.0,177.0,http://ontologies/interactioncontext#rating_5_3
+93xlxT,cortado decaffeinated,41.0,177.0,http://ontologies/interactioncontext#rating_5_6
+93xlxT,expresso,1.0,177.0,http://ontologies/interactioncontext#rating_5_8
+93xlxT,hazelnut_cappuccino,2.0,177.0,http://ontologies/interactioncontext#rating_5_9
+CCMAqXtVdM,cortado,8.0,8.0,http://ontologies/interactioncontext#rating_6_5
+CkfZksM2rBrL,cortado,9.0,9.0,http://ontologies/interactioncontext#rating_7_5
+CuAgSlJwl,cortado,56.0,306.0,http://ontologies/interactioncontext#rating_8_5
+CuAgSlJwl,expresso,2.0,306.0,http://ontologies/interactioncontext#rating_8_8
+CuAgSlJwl,milk_coffee,248.0,306.0,http://ontologies/interactioncontext#rating_8_13
+D6F0qp7s7,cortado,28.0,66.0,http://ontologies/interactioncontext#rating_9_5
+D6F0qp7s7,milk_coffee,38.0,66.0,http://ontologies/interactioncontext#rating_9_13
+F96Kv,hazelnut_cappuccino,1.0,5.0,http://ontologies/interactioncontext#rating_37_9
+F96Kv,long_decaffeinated,0.0,5.0,http://ontologies/interactioncontext#rating_37_12
+F96Kv,milk_coffee,4.0,5.0,http://ontologies/interactioncontext#rating_37_13
+FHZemZ,capuccino,4.0,4.0,http://ontologies/interactioncontext#rating_10_1
+FmxgvxmU,capuccino decaffeinated,2.0,266.0,http://ontologies/interactioncontext#rating_11_2
+FmxgvxmU,chocolate,3.0,266.0,http://ontologies/interactioncontext#rating_11_3
+FmxgvxmU,cortado,233.0,266.0,http://ontologies/interactioncontext#rating_11_5
+FmxgvxmU,cortado decaffeinated,1.0,266.0,http://ontologies/interactioncontext#rating_11_6
+FmxgvxmU,decaffeinated,2.0,266.0,http://ontologies/interactioncontext#rating_11_7
+FmxgvxmU,expresso,14.0,266.0,http://ontologies/interactioncontext#rating_11_8
+FmxgvxmU,light_coffee,1.0,266.0,http://ontologies/interactioncontext#rating_11_10
+FmxgvxmU,milk_coffee,10.0,266.0,http://ontologies/interactioncontext#rating_11_13
+I3RXU,cortado,0.0,12.0,http://ontologies/interactioncontext#rating_30_5
+I3RXU,milk_coffee,12.0,12.0,http://ontologies/interactioncontext#rating_30_13
+IQtg13hB,expresso,71.0,71.0,http://ontologies/interactioncontext#rating_12_8
+M8TX69h8,arabiar tea,1.0,27.0,http://ontologies/interactioncontext#rating_13_0
+M8TX69h8,milk_coffee,26.0,27.0,http://ontologies/interactioncontext#rating_13_13
+OCUnH,arabiar tea,0.0,13.0,http://ontologies/interactioncontext#rating_29_0
+OCUnH,capuccino,1.0,13.0,http://ontologies/interactioncontext#rating_29_1
+OCUnH,chocolate_milk,1.0,13.0,http://ontologies/interactioncontext#rating_29_4
+OCUnH,cortado,1.0,13.0,http://ontologies/interactioncontext#rating_29_5
+OCUnH,decaffeinated,0.0,13.0,http://ontologies/interactioncontext#rating_29_7
+OCUnH,expresso,8.0,13.0,http://ontologies/interactioncontext#rating_29_8
+OCUnH,hazelnut_cappuccino,0.0,13.0,http://ontologies/interactioncontext#rating_29_9
+OCUnH,light_coffee,0.0,13.0,http://ontologies/interactioncontext#rating_29_10
+OCUnH,long_coffee,0.0,13.0,http://ontologies/interactioncontext#rating_29_11
+OCUnH,long_decaffeinated,0.0,13.0,http://ontologies/interactioncontext#rating_29_12
+OCUnH,milk_coffee,2.0,13.0,http://ontologies/interactioncontext#rating_29_13
+OJwzAJ33l,chocolate,2.0,26.0,http://ontologies/interactioncontext#rating_14_3
+OJwzAJ33l,expresso,4.0,26.0,http://ontologies/interactioncontext#rating_14_8
+OJwzAJ33l,long_coffee,20.0,26.0,http://ontologies/interactioncontext#rating_14_11
+P5BAwzTfB,capuccino,3.0,14.0,http://ontologies/interactioncontext#rating_15_1
+P5BAwzTfB,capuccino decaffeinated,1.0,14.0,http://ontologies/interactioncontext#rating_15_2
+P5BAwzTfB,hazelnut_cappuccino,9.0,14.0,http://ontologies/interactioncontext#rating_15_9
+P5BAwzTfB,txokolate white,1.0,14.0,http://ontologies/interactioncontext#rating_15_15
+TRFKSXv,chocolate,3.0,3.0,http://ontologies/interactioncontext#rating_16_3
+Vhpk5shpkk,arabiar tea,1.0,24.0,http://ontologies/interactioncontext#rating_17_0
+Vhpk5shpkk,decaffeinated,17.0,24.0,http://ontologies/interactioncontext#rating_17_7
+Vhpk5shpkk,expresso,5.0,24.0,http://ontologies/interactioncontext#rating_17_8
+Vhpk5shpkk,milk_coffee kafeinagabe,1.0,24.0,http://ontologies/interactioncontext#rating_17_14
+Yx3rQ,capuccino,7.0,16.0,http://ontologies/interactioncontext#rating_28_1
+Yx3rQ,chocolate,0.0,16.0,http://ontologies/interactioncontext#rating_28_3
+Yx3rQ,cortado,2.5,16.0,http://ontologies/interactioncontext#rating_28_5
+Yx3rQ,cortado decaffeinated,0.0,16.0,http://ontologies/interactioncontext#rating_28_6
+Yx3rQ,decaffeinated,0.0,16.0,http://ontologies/interactioncontext#rating_28_7
+Yx3rQ,hazelnut_cappuccino,0.5,16.0,http://ontologies/interactioncontext#rating_28_9
+Yx3rQ,long_coffee,6.0,16.0,http://ontologies/interactioncontext#rating_28_11
+anH4HDH,capuccino,4.0,4.0,http://ontologies/interactioncontext#rating_18_1
+d4guBrpB,capuccino,1.0,149.0,http://ontologies/interactioncontext#rating_19_1
+d4guBrpB,cortado,103.0,149.0,http://ontologies/interactioncontext#rating_19_5
+d4guBrpB,cortado decaffeinated,43.0,149.0,http://ontologies/interactioncontext#rating_19_6
+d4guBrpB,expresso,2.0,149.0,http://ontologies/interactioncontext#rating_19_8
+fJlBu,capuccino,4.0,6.0,http://ontologies/interactioncontext#rating_31_1
+fJlBu,cortado,1.0,6.0,http://ontologies/interactioncontext#rating_31_5
+fJlBu,milk_coffee,1.0,6.0,http://ontologies/interactioncontext#rating_31_13
+fJlBu,txokolate white,0.0,6.0,http://ontologies/interactioncontext#rating_31_15
+fa6SQ,capuccino,1.5,7.0,http://ontologies/interactioncontext#rating_39_1
+fa6SQ,decaffeinated,0.0,7.0,http://ontologies/interactioncontext#rating_39_7
+fa6SQ,hazelnut_cappuccino,3.0,7.0,http://ontologies/interactioncontext#rating_39_9
+fa6SQ,milk_coffee,2.5,7.0,http://ontologies/interactioncontext#rating_39_13
+gKUuuzg9,chocolate,57.0,308.0,http://ontologies/interactioncontext#rating_20_3
+gKUuuzg9,light_coffee,2.0,308.0,http://ontologies/interactioncontext#rating_20_10
+gKUuuzg9,milk_coffee,249.0,308.0,http://ontologies/interactioncontext#rating_20_13
+iia5SP5,chocolate_milk,1.0,7.0,http://ontologies/interactioncontext#rating_21_4
+iia5SP5,hazelnut_cappuccino,6.0,7.0,http://ontologies/interactioncontext#rating_21_9
+jb1CjU1HF,chocolate,1.0,10.0,http://ontologies/interactioncontext#rating_22_3
+jb1CjU1HF,hazelnut_cappuccino,1.0,10.0,http://ontologies/interactioncontext#rating_22_9
+jb1CjU1HF,milk_coffee,8.0,10.0,http://ontologies/interactioncontext#rating_22_13
+oS7WZT0,milk_coffee,22.0,22.0,http://ontologies/interactioncontext#rating_23_13
+qpzNDzybrsi,expresso,16.0,16.0,http://ontologies/interactioncontext#rating_24_8
+sZfLY,expresso,2.0,2.0,http://ontologies/interactioncontext#rating_41_8
+uhDooz5uD,expresso,2.0,27.0,http://ontologies/interactioncontext#rating_25_8
+uhDooz5uD,milk_coffee,25.0,27.0,http://ontologies/interactioncontext#rating_25_13
+vRXyI,capuccino,0.0,7.0,http://ontologies/interactioncontext#rating_40_1
+vRXyI,expresso,1.0,7.0,http://ontologies/interactioncontext#rating_40_8
+vRXyI,long_coffee,6.0,7.0,http://ontologies/interactioncontext#rating_40_11
+vRXyI,milk_coffee,0.0,7.0,http://ontologies/interactioncontext#rating_40_13
+ws0cho3,cortado,0.5,8.0,http://ontologies/interactioncontext#rating_34_5
+ws0cho3,decaffeinated,0.0,8.0,http://ontologies/interactioncontext#rating_34_7
+ws0cho3,expresso,3.0,8.0,http://ontologies/interactioncontext#rating_34_8
+ws0cho3,hazelnut_cappuccino,2.0,8.0,http://ontologies/interactioncontext#rating_34_9
+ws0cho3,milk_coffee,2.5,8.0,http://ontologies/interactioncontext#rating_34_13
+ymETMF4M4,capuccino,41.0,57.0,http://ontologies/interactioncontext#rating_26_1
+ymETMF4M4,decaffeinated,2.0,57.0,http://ontologies/interactioncontext#rating_26_7
+ymETMF4M4,long_coffee,10.0,57.0,http://ontologies/interactioncontext#rating_26_11
+ymETMF4M4,long_decaffeinated,4.0,57.0,http://ontologies/interactioncontext#rating_26_12

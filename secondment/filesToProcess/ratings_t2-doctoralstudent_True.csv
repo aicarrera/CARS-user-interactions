@@ -1,0 +1,593 @@
+,user,service,value
+0,0WFqeFiPx3K,arabiar tea,0.0
+1,0a4Qn,arabiar tea,-0.2
+2,2qDLEBNv,arabiar tea,0.0
+3,55reHHf,arabiar tea,0.0
+4,5pVcV5V,arabiar tea,0.0
+5,93xlxT,arabiar tea,0.0
+6,CCMAqXtVdM,arabiar tea,0.0
+7,CkfZksM2rBrL,arabiar tea,0.0
+8,CuAgSlJwl,arabiar tea,-0.006042296072507553
+9,D6F0qp7s7,arabiar tea,0.0
+10,F96Kv,arabiar tea,0.0
+11,FHZemZ,arabiar tea,0.0
+12,FmxgvxmU,arabiar tea,0.0
+13,I3RXU,arabiar tea,0.0
+14,IQtg13hB,arabiar tea,0.0
+15,M8TX69h8,arabiar tea,0.0
+16,OCUnH,arabiar tea,-0.16666666666666666
+17,OJwzAJ33l,arabiar tea,0.0
+18,P5BAwzTfB,arabiar tea,0.0
+19,TRFKSXv,arabiar tea,0.0
+20,Vhpk5shpkk,arabiar tea,0.11538461538461539
+21,Yx3rQ,arabiar tea,0.0
+22,anH4HDH,arabiar tea,0.0
+23,d4guBrpB,arabiar tea,0.0
+24,fJlBu,arabiar tea,0.0
+25,gKUuuzg9,arabiar tea,0.0
+26,ieuWQ,arabiar tea,0.0
+27,iia5SP5,arabiar tea,0.0
+28,jb1CjU1HF,arabiar tea,0.0
+29,larri45h,arabiar tea,0.0
+30,oS7WZT0,arabiar tea,0.0
+31,qpzNDzybrsi,arabiar tea,0.0
+32,sZfLY,arabiar tea,0.0
+33,uhDooz5uD,arabiar tea,0.0
+34,vRXyI,arabiar tea,0.0
+35,ws0cho3,arabiar tea,0.0
+36,ymETMF4M4,arabiar tea,0.0
+37,0WFqeFiPx3K,capuccino,0.0
+38,0a4Qn,capuccino,0.2
+39,2qDLEBNv,capuccino,0.0
+40,55reHHf,capuccino,0.0
+41,5pVcV5V,capuccino,0.0
+42,93xlxT,capuccino,0.0
+43,CCMAqXtVdM,capuccino,0.0
+44,CkfZksM2rBrL,capuccino,0.0
+45,CuAgSlJwl,capuccino,0.0
+46,D6F0qp7s7,capuccino,0.0
+47,F96Kv,capuccino,0.0
+48,FHZemZ,capuccino,0.8
+49,FmxgvxmU,capuccino,0.0
+50,I3RXU,capuccino,0.0
+51,IQtg13hB,capuccino,0.0
+52,M8TX69h8,capuccino,0.0
+53,OCUnH,capuccino,-0.08333333333333333
+54,OJwzAJ33l,capuccino,0.0
+55,P5BAwzTfB,capuccino,0.0
+56,TRFKSXv,capuccino,0.0
+57,Vhpk5shpkk,capuccino,0.07692307692307693
+58,Yx3rQ,capuccino,0.2857142857142857
+59,anH4HDH,capuccino,0.5
+60,d4guBrpB,capuccino,0.013793103448275862
+61,fJlBu,capuccino,0.4444444444444444
+62,gKUuuzg9,capuccino,0.0
+63,ieuWQ,capuccino,0.0
+64,iia5SP5,capuccino,0.0
+65,jb1CjU1HF,capuccino,0.0
+66,larri45h,capuccino,0.0
+67,oS7WZT0,capuccino,0.0
+68,qpzNDzybrsi,capuccino,0.0
+69,sZfLY,capuccino,0.0
+70,uhDooz5uD,capuccino,0.0
+71,vRXyI,capuccino,-0.2857142857142857
+72,ws0cho3,capuccino,0.0
+73,ymETMF4M4,capuccino,0.5964912280701754
+74,0WFqeFiPx3K,capuccino decaffeinated,1.0
+75,0a4Qn,capuccino decaffeinated,0.0
+76,2qDLEBNv,capuccino decaffeinated,0.0
+77,55reHHf,capuccino decaffeinated,0.0
+78,5pVcV5V,capuccino decaffeinated,0.0
+79,93xlxT,capuccino decaffeinated,0.0
+80,CCMAqXtVdM,capuccino decaffeinated,0.0
+81,CkfZksM2rBrL,capuccino decaffeinated,0.0
+82,CuAgSlJwl,capuccino decaffeinated,0.0
+83,D6F0qp7s7,capuccino decaffeinated,0.0
+84,F96Kv,capuccino decaffeinated,0.0
+85,FHZemZ,capuccino decaffeinated,0.0
+86,FmxgvxmU,capuccino decaffeinated,0.005263157894736842
+87,I3RXU,capuccino decaffeinated,0.0
+88,IQtg13hB,capuccino decaffeinated,0.0
+89,M8TX69h8,capuccino decaffeinated,0.0
+90,OCUnH,capuccino decaffeinated,0.0
+91,OJwzAJ33l,capuccino decaffeinated,0.0
+92,P5BAwzTfB,capuccino decaffeinated,0.0
+93,TRFKSXv,capuccino decaffeinated,0.0
+94,Vhpk5shpkk,capuccino decaffeinated,0.038461538461538464
+95,Yx3rQ,capuccino decaffeinated,0.0
+96,anH4HDH,capuccino decaffeinated,0.0
+97,d4guBrpB,capuccino decaffeinated,0.0
+98,fJlBu,capuccino decaffeinated,0.0
+99,gKUuuzg9,capuccino decaffeinated,0.0
+100,ieuWQ,capuccino decaffeinated,1.0
+101,iia5SP5,capuccino decaffeinated,0.0
+102,jb1CjU1HF,capuccino decaffeinated,0.0
+103,larri45h,capuccino decaffeinated,0.0
+104,oS7WZT0,capuccino decaffeinated,0.0
+105,qpzNDzybrsi,capuccino decaffeinated,0.0
+106,sZfLY,capuccino decaffeinated,0.0
+107,uhDooz5uD,capuccino decaffeinated,0.0
+108,vRXyI,capuccino decaffeinated,0.0
+109,ws0cho3,capuccino decaffeinated,0.0
+110,ymETMF4M4,capuccino decaffeinated,0.0
+111,0WFqeFiPx3K,chocolate,0.0
+112,0a4Qn,chocolate,0.0
+113,2qDLEBNv,chocolate,0.2
+114,55reHHf,chocolate,0.0
+115,5pVcV5V,chocolate,0.5
+116,93xlxT,chocolate,0.7401129943502824
+117,CCMAqXtVdM,chocolate,0.0
+118,CkfZksM2rBrL,chocolate,0.0
+119,CuAgSlJwl,chocolate,0.0
+120,D6F0qp7s7,chocolate,0.0
+121,F96Kv,chocolate,0.0
+122,FHZemZ,chocolate,0.0
+123,FmxgvxmU,chocolate,0.015789473684210527
+124,I3RXU,chocolate,0.0
+125,IQtg13hB,chocolate,0.0
+126,M8TX69h8,chocolate,0.0
+127,OCUnH,chocolate,0.0
+128,OJwzAJ33l,chocolate,0.21052631578947367
+129,P5BAwzTfB,chocolate,0.0
+130,TRFKSXv,chocolate,0.0
+131,Vhpk5shpkk,chocolate,0.0
+132,Yx3rQ,chocolate,-0.05714285714285714
+133,anH4HDH,chocolate,0.0
+134,d4guBrpB,chocolate,0.0
+135,fJlBu,chocolate,0.0
+136,gKUuuzg9,chocolate,0.1875
+137,ieuWQ,chocolate,0.0
+138,iia5SP5,chocolate,0.0
+139,jb1CjU1HF,chocolate,0.625
+140,larri45h,chocolate,0.0
+141,oS7WZT0,chocolate,0.0
+142,qpzNDzybrsi,chocolate,0.0
+143,sZfLY,chocolate,0.0
+144,uhDooz5uD,chocolate,0.0
+145,vRXyI,chocolate,0.0
+146,ws0cho3,chocolate,0.0
+147,ymETMF4M4,chocolate,0.0
+148,0WFqeFiPx3K,chocolate_milk,0.0
+149,0a4Qn,chocolate_milk,0.0
+150,2qDLEBNv,chocolate_milk,0.0
+151,55reHHf,chocolate_milk,0.0
+152,5pVcV5V,chocolate_milk,0.0
+153,93xlxT,chocolate_milk,0.0
+154,CCMAqXtVdM,chocolate_milk,0.0
+155,CkfZksM2rBrL,chocolate_milk,0.0
+156,CuAgSlJwl,chocolate_milk,0.0
+157,D6F0qp7s7,chocolate_milk,0.025974025974025976
+158,F96Kv,chocolate_milk,0.0
+159,FHZemZ,chocolate_milk,0.0
+160,FmxgvxmU,chocolate_milk,0.0
+161,I3RXU,chocolate_milk,0.0
+162,IQtg13hB,chocolate_milk,0.0
+163,M8TX69h8,chocolate_milk,0.0
+164,OCUnH,chocolate_milk,0.3333333333333333
+165,OJwzAJ33l,chocolate_milk,0.0
+166,P5BAwzTfB,chocolate_milk,0.0
+167,TRFKSXv,chocolate_milk,0.0
+168,Vhpk5shpkk,chocolate_milk,0.0
+169,Yx3rQ,chocolate_milk,0.0
+170,anH4HDH,chocolate_milk,0.0
+171,d4guBrpB,chocolate_milk,0.0
+172,fJlBu,chocolate_milk,0.0
+173,gKUuuzg9,chocolate_milk,0.0
+174,ieuWQ,chocolate_milk,0.0
+175,iia5SP5,chocolate_milk,0.0
+176,jb1CjU1HF,chocolate_milk,0.0
+177,larri45h,chocolate_milk,0.0
+178,oS7WZT0,chocolate_milk,0.0
+179,qpzNDzybrsi,chocolate_milk,0.0
+180,sZfLY,chocolate_milk,0.0
+181,uhDooz5uD,chocolate_milk,0.0
+182,vRXyI,chocolate_milk,0.0
+183,ws0cho3,chocolate_milk,0.0
+184,ymETMF4M4,chocolate_milk,0.0
+185,0WFqeFiPx3K,cortado,0.0
+186,0a4Qn,cortado,0.05
+187,2qDLEBNv,cortado,0.0
+188,55reHHf,cortado,0.0
+189,5pVcV5V,cortado,0.0
+190,93xlxT,cortado,0.0
+191,CCMAqXtVdM,cortado,1.0
+192,CkfZksM2rBrL,cortado,1.0
+193,CuAgSlJwl,cortado,0.1691842900302115
+194,D6F0qp7s7,cortado,0.961038961038961
+195,F96Kv,cortado,0.0
+196,FHZemZ,cortado,0.0
+197,FmxgvxmU,cortado,0.8736842105263158
+198,I3RXU,cortado,-0.1111111111111111
+199,IQtg13hB,cortado,0.0
+200,M8TX69h8,cortado,0.0
+201,OCUnH,cortado,-0.9166666666666666
+202,OJwzAJ33l,cortado,0.0
+203,P5BAwzTfB,cortado,0.0
+204,TRFKSXv,cortado,0.0
+205,Vhpk5shpkk,cortado,0.0
+206,Yx3rQ,cortado,0.14285714285714285
+207,anH4HDH,cortado,0.0
+208,d4guBrpB,cortado,0.6758620689655173
+209,fJlBu,cortado,0.1111111111111111
+210,gKUuuzg9,cortado,0.0
+211,ieuWQ,cortado,-1.0
+212,iia5SP5,cortado,0.0
+213,jb1CjU1HF,cortado,0.0
+214,larri45h,cortado,0.0
+215,oS7WZT0,cortado,0.0
+216,qpzNDzybrsi,cortado,0.0
+217,sZfLY,cortado,0.0
+218,uhDooz5uD,cortado,0.0
+219,vRXyI,cortado,0.0
+220,ws0cho3,cortado,0.125
+221,ymETMF4M4,cortado,0.0
+222,0WFqeFiPx3K,cortado decaffeinated,0.0
+223,0a4Qn,cortado decaffeinated,0.05
+224,2qDLEBNv,cortado decaffeinated,0.0
+225,55reHHf,cortado decaffeinated,0.0
+226,5pVcV5V,cortado decaffeinated,0.0
+227,93xlxT,cortado decaffeinated,0.22598870056497175
+228,CCMAqXtVdM,cortado decaffeinated,0.0
+229,CkfZksM2rBrL,cortado decaffeinated,0.0
+230,CuAgSlJwl,cortado decaffeinated,0.0
+231,D6F0qp7s7,cortado decaffeinated,0.0
+232,F96Kv,cortado decaffeinated,0.0
+233,FHZemZ,cortado decaffeinated,0.0
+234,FmxgvxmU,cortado decaffeinated,0.010526315789473684
+235,I3RXU,cortado decaffeinated,0.0
+236,IQtg13hB,cortado decaffeinated,0.0
+237,M8TX69h8,cortado decaffeinated,0.0
+238,OCUnH,cortado decaffeinated,0.0
+239,OJwzAJ33l,cortado decaffeinated,0.0
+240,P5BAwzTfB,cortado decaffeinated,0.0
+241,TRFKSXv,cortado decaffeinated,0.0
+242,Vhpk5shpkk,cortado decaffeinated,0.0
+243,Yx3rQ,cortado decaffeinated,-0.05714285714285714
+244,anH4HDH,cortado decaffeinated,0.0
+245,d4guBrpB,cortado decaffeinated,0.2827586206896552
+246,fJlBu,cortado decaffeinated,0.0
+247,gKUuuzg9,cortado decaffeinated,0.0
+248,ieuWQ,cortado decaffeinated,0.0
+249,iia5SP5,cortado decaffeinated,0.0
+250,jb1CjU1HF,cortado decaffeinated,0.0
+251,larri45h,cortado decaffeinated,0.0
+252,oS7WZT0,cortado decaffeinated,0.0
+253,qpzNDzybrsi,cortado decaffeinated,0.0
+254,sZfLY,cortado decaffeinated,0.0
+255,uhDooz5uD,cortado decaffeinated,0.0
+256,vRXyI,cortado decaffeinated,0.0
+257,ws0cho3,cortado decaffeinated,0.0
+258,ymETMF4M4,cortado decaffeinated,0.0
+259,0WFqeFiPx3K,decaffeinated,0.0
+260,0a4Qn,decaffeinated,0.0
+261,2qDLEBNv,decaffeinated,0.0
+262,55reHHf,decaffeinated,0.0
+263,5pVcV5V,decaffeinated,0.0
+264,93xlxT,decaffeinated,0.0
+265,CCMAqXtVdM,decaffeinated,0.0
+266,CkfZksM2rBrL,decaffeinated,0.0
+267,CuAgSlJwl,decaffeinated,0.0
+268,D6F0qp7s7,decaffeinated,0.0
+269,F96Kv,decaffeinated,0.0
+270,FHZemZ,decaffeinated,0.0
+271,FmxgvxmU,decaffeinated,0.005263157894736842
+272,I3RXU,decaffeinated,0.0
+273,IQtg13hB,decaffeinated,0.0
+274,M8TX69h8,decaffeinated,0.0
+275,OCUnH,decaffeinated,-0.16666666666666666
+276,OJwzAJ33l,decaffeinated,0.0
+277,P5BAwzTfB,decaffeinated,0.0
+278,TRFKSXv,decaffeinated,0.0
+279,Vhpk5shpkk,decaffeinated,0.5769230769230769
+280,Yx3rQ,decaffeinated,-0.11428571428571428
+281,anH4HDH,decaffeinated,0.0
+282,d4guBrpB,decaffeinated,0.0
+283,fJlBu,decaffeinated,0.0
+284,gKUuuzg9,decaffeinated,0.0
+285,ieuWQ,decaffeinated,-1.0
+286,iia5SP5,decaffeinated,0.0
+287,jb1CjU1HF,decaffeinated,0.0
+288,larri45h,decaffeinated,0.0
+289,oS7WZT0,decaffeinated,0.0
+290,qpzNDzybrsi,decaffeinated,0.0
+291,sZfLY,decaffeinated,0.0
+292,uhDooz5uD,decaffeinated,0.0
+293,vRXyI,decaffeinated,0.0
+294,ws0cho3,decaffeinated,-0.125
+295,ymETMF4M4,decaffeinated,0.017543859649122806
+296,0WFqeFiPx3K,expresso,0.0
+297,0a4Qn,expresso,-0.8
+298,2qDLEBNv,expresso,0.0
+299,55reHHf,expresso,0.0
+300,5pVcV5V,expresso,0.0
+301,93xlxT,expresso,0.011299435028248588
+302,CCMAqXtVdM,expresso,0.0
+303,CkfZksM2rBrL,expresso,0.0
+304,CuAgSlJwl,expresso,0.0
+305,D6F0qp7s7,expresso,0.0
+306,F96Kv,expresso,0.0
+307,FHZemZ,expresso,0.0
+308,FmxgvxmU,expresso,0.05263157894736842
+309,I3RXU,expresso,0.0
+310,IQtg13hB,expresso,1.0
+311,M8TX69h8,expresso,0.0
+312,OCUnH,expresso,0.6666666666666666
+313,OJwzAJ33l,expresso,0.2631578947368421
+314,P5BAwzTfB,expresso,0.0
+315,TRFKSXv,expresso,1.0
+316,Vhpk5shpkk,expresso,0.15384615384615385
+317,Yx3rQ,expresso,0.0
+318,anH4HDH,expresso,0.5
+319,d4guBrpB,expresso,0.027586206896551724
+320,fJlBu,expresso,0.0
+321,gKUuuzg9,expresso,0.0
+322,ieuWQ,expresso,0.0
+323,iia5SP5,expresso,0.0
+324,jb1CjU1HF,expresso,0.0
+325,larri45h,expresso,0.0
+326,oS7WZT0,expresso,0.0
+327,qpzNDzybrsi,expresso,1.0
+328,sZfLY,expresso,1.0
+329,uhDooz5uD,expresso,0.037037037037037035
+330,vRXyI,expresso,0.14285714285714285
+331,ws0cho3,expresso,0.375
+332,ymETMF4M4,expresso,0.0
+333,0WFqeFiPx3K,hazelnut_cappuccino,0.0
+334,0a4Qn,hazelnut_cappuccino,0.0
+335,2qDLEBNv,hazelnut_cappuccino,0.2
+336,55reHHf,hazelnut_cappuccino,0.0
+337,5pVcV5V,hazelnut_cappuccino,0.5
+338,93xlxT,hazelnut_cappuccino,0.022598870056497175
+339,CCMAqXtVdM,hazelnut_cappuccino,0.0
+340,CkfZksM2rBrL,hazelnut_cappuccino,0.0
+341,CuAgSlJwl,hazelnut_cappuccino,0.0
+342,D6F0qp7s7,hazelnut_cappuccino,0.0
+343,F96Kv,hazelnut_cappuccino,0.2
+344,FHZemZ,hazelnut_cappuccino,0.0
+345,FmxgvxmU,hazelnut_cappuccino,0.0
+346,I3RXU,hazelnut_cappuccino,0.0
+347,IQtg13hB,hazelnut_cappuccino,0.0
+348,M8TX69h8,hazelnut_cappuccino,0.0
+349,OCUnH,hazelnut_cappuccino,-0.16666666666666666
+350,OJwzAJ33l,hazelnut_cappuccino,0.0
+351,P5BAwzTfB,hazelnut_cappuccino,1.0
+352,TRFKSXv,hazelnut_cappuccino,0.0
+353,Vhpk5shpkk,hazelnut_cappuccino,0.038461538461538464
+354,Yx3rQ,hazelnut_cappuccino,0.05714285714285714
+355,anH4HDH,hazelnut_cappuccino,0.0
+356,d4guBrpB,hazelnut_cappuccino,0.0
+357,fJlBu,hazelnut_cappuccino,0.0
+358,gKUuuzg9,hazelnut_cappuccino,0.0
+359,ieuWQ,hazelnut_cappuccino,0.0
+360,iia5SP5,hazelnut_cappuccino,1.0
+361,jb1CjU1HF,hazelnut_cappuccino,0.0
+362,larri45h,hazelnut_cappuccino,0.0
+363,oS7WZT0,hazelnut_cappuccino,0.0
+364,qpzNDzybrsi,hazelnut_cappuccino,0.0
+365,sZfLY,hazelnut_cappuccino,0.0
+366,uhDooz5uD,hazelnut_cappuccino,0.0
+367,vRXyI,hazelnut_cappuccino,0.0
+368,ws0cho3,hazelnut_cappuccino,0.375
+369,ymETMF4M4,hazelnut_cappuccino,0.0
+370,0WFqeFiPx3K,light_coffee,0.0
+371,0a4Qn,light_coffee,0.0
+372,2qDLEBNv,light_coffee,0.0
+373,55reHHf,light_coffee,0.0
+374,5pVcV5V,light_coffee,0.0
+375,93xlxT,light_coffee,0.0
+376,CCMAqXtVdM,light_coffee,0.0
+377,CkfZksM2rBrL,light_coffee,0.0
+378,CuAgSlJwl,light_coffee,0.0
+379,D6F0qp7s7,light_coffee,0.0
+380,F96Kv,light_coffee,0.0
+381,FHZemZ,light_coffee,0.0
+382,FmxgvxmU,light_coffee,0.010526315789473684
+383,I3RXU,light_coffee,0.0
+384,IQtg13hB,light_coffee,0.0
+385,M8TX69h8,light_coffee,0.0
+386,OCUnH,light_coffee,-0.16666666666666666
+387,OJwzAJ33l,light_coffee,0.0
+388,P5BAwzTfB,light_coffee,0.0
+389,TRFKSXv,light_coffee,0.0
+390,Vhpk5shpkk,light_coffee,0.0
+391,Yx3rQ,light_coffee,0.0
+392,anH4HDH,light_coffee,0.0
+393,d4guBrpB,light_coffee,0.0
+394,fJlBu,light_coffee,0.0
+395,gKUuuzg9,light_coffee,0.00625
+396,ieuWQ,light_coffee,-1.0
+397,iia5SP5,light_coffee,0.0
+398,jb1CjU1HF,light_coffee,0.0
+399,larri45h,light_coffee,0.0
+400,oS7WZT0,light_coffee,0.0
+401,qpzNDzybrsi,light_coffee,0.0
+402,sZfLY,light_coffee,0.0
+403,uhDooz5uD,light_coffee,0.0
+404,vRXyI,light_coffee,0.0
+405,ws0cho3,light_coffee,0.0
+406,ymETMF4M4,light_coffee,0.0
+407,0WFqeFiPx3K,long_coffee,0.0
+408,0a4Qn,long_coffee,-0.1
+409,2qDLEBNv,long_coffee,0.4
+410,55reHHf,long_coffee,0.0
+411,5pVcV5V,long_coffee,0.0
+412,93xlxT,long_coffee,0.0
+413,CCMAqXtVdM,long_coffee,0.0
+414,CkfZksM2rBrL,long_coffee,0.0
+415,CuAgSlJwl,long_coffee,0.0
+416,D6F0qp7s7,long_coffee,0.0
+417,F96Kv,long_coffee,0.0
+418,FHZemZ,long_coffee,0.0
+419,FmxgvxmU,long_coffee,0.0
+420,I3RXU,long_coffee,0.0
+421,IQtg13hB,long_coffee,0.0
+422,M8TX69h8,long_coffee,0.0
+423,OCUnH,long_coffee,-0.16666666666666666
+424,OJwzAJ33l,long_coffee,0.5263157894736842
+425,P5BAwzTfB,long_coffee,0.0
+426,TRFKSXv,long_coffee,0.0
+427,Vhpk5shpkk,long_coffee,0.0
+428,Yx3rQ,long_coffee,0.5142857142857142
+429,anH4HDH,long_coffee,0.0
+430,d4guBrpB,long_coffee,0.0
+431,fJlBu,long_coffee,0.0
+432,gKUuuzg9,long_coffee,0.0
+433,ieuWQ,long_coffee,0.0
+434,iia5SP5,long_coffee,0.0
+435,jb1CjU1HF,long_coffee,0.0
+436,larri45h,long_coffee,1.0
+437,oS7WZT0,long_coffee,0.0
+438,qpzNDzybrsi,long_coffee,0.0
+439,sZfLY,long_coffee,0.0
+440,uhDooz5uD,long_coffee,0.0
+441,vRXyI,long_coffee,0.8571428571428571
+442,ws0cho3,long_coffee,0.0
+443,ymETMF4M4,long_coffee,0.24561403508771928
+444,0WFqeFiPx3K,long_decaffeinated,0.0
+445,0a4Qn,long_decaffeinated,-0.4
+446,2qDLEBNv,long_decaffeinated,0.0
+447,55reHHf,long_decaffeinated,0.0
+448,5pVcV5V,long_decaffeinated,0.0
+449,93xlxT,long_decaffeinated,0.0
+450,CCMAqXtVdM,long_decaffeinated,0.0
+451,CkfZksM2rBrL,long_decaffeinated,0.0
+452,CuAgSlJwl,long_decaffeinated,0.0
+453,D6F0qp7s7,long_decaffeinated,0.0
+454,F96Kv,long_decaffeinated,-0.4
+455,FHZemZ,long_decaffeinated,0.0
+456,FmxgvxmU,long_decaffeinated,0.0
+457,I3RXU,long_decaffeinated,0.0
+458,IQtg13hB,long_decaffeinated,0.0
+459,M8TX69h8,long_decaffeinated,0.0
+460,OCUnH,long_decaffeinated,-0.3333333333333333
+461,OJwzAJ33l,long_decaffeinated,0.0
+462,P5BAwzTfB,long_decaffeinated,0.0
+463,TRFKSXv,long_decaffeinated,0.0
+464,Vhpk5shpkk,long_decaffeinated,0.0
+465,Yx3rQ,long_decaffeinated,0.0
+466,anH4HDH,long_decaffeinated,0.0
+467,d4guBrpB,long_decaffeinated,0.0
+468,fJlBu,long_decaffeinated,0.0
+469,gKUuuzg9,long_decaffeinated,0.0
+470,ieuWQ,long_decaffeinated,0.0
+471,iia5SP5,long_decaffeinated,0.0
+472,jb1CjU1HF,long_decaffeinated,0.0
+473,larri45h,long_decaffeinated,0.0
+474,oS7WZT0,long_decaffeinated,0.0
+475,qpzNDzybrsi,long_decaffeinated,0.0
+476,sZfLY,long_decaffeinated,0.0
+477,uhDooz5uD,long_decaffeinated,0.0
+478,vRXyI,long_decaffeinated,0.0
+479,ws0cho3,long_decaffeinated,0.0
+480,ymETMF4M4,long_decaffeinated,0.14035087719298245
+481,0WFqeFiPx3K,milk_coffee,0.0
+482,0a4Qn,milk_coffee,0.3
+483,2qDLEBNv,milk_coffee,0.2
+484,55reHHf,milk_coffee,1.0
+485,5pVcV5V,milk_coffee,0.0
+486,93xlxT,milk_coffee,0.0
+487,CCMAqXtVdM,milk_coffee,0.0
+488,CkfZksM2rBrL,milk_coffee,0.0
+489,CuAgSlJwl,milk_coffee,0.8277945619335347
+490,D6F0qp7s7,milk_coffee,0.012987012987012988
+491,F96Kv,milk_coffee,0.8
+492,FHZemZ,milk_coffee,0.2
+493,FmxgvxmU,milk_coffee,0.02631578947368421
+494,I3RXU,milk_coffee,1.0
+495,IQtg13hB,milk_coffee,0.0
+496,M8TX69h8,milk_coffee,1.0
+497,OCUnH,milk_coffee,-0.16666666666666666
+498,OJwzAJ33l,milk_coffee,0.0
+499,P5BAwzTfB,milk_coffee,0.0
+500,TRFKSXv,milk_coffee,0.0
+501,Vhpk5shpkk,milk_coffee,0.0
+502,Yx3rQ,milk_coffee,0.0
+503,anH4HDH,milk_coffee,0.0
+504,d4guBrpB,milk_coffee,0.0
+505,fJlBu,milk_coffee,0.4444444444444444
+506,gKUuuzg9,milk_coffee,0.80625
+507,ieuWQ,milk_coffee,0.0
+508,iia5SP5,milk_coffee,0.0
+509,jb1CjU1HF,milk_coffee,0.375
+510,larri45h,milk_coffee,0.0
+511,oS7WZT0,milk_coffee,1.0
+512,qpzNDzybrsi,milk_coffee,0.0
+513,sZfLY,milk_coffee,0.0
+514,uhDooz5uD,milk_coffee,0.9629629629629629
+515,vRXyI,milk_coffee,-0.2857142857142857
+516,ws0cho3,milk_coffee,0.125
+517,ymETMF4M4,milk_coffee,0.0
+518,0WFqeFiPx3K,milk_coffee kafeinagabe,0.0
+519,0a4Qn,milk_coffee kafeinagabe,0.1
+520,2qDLEBNv,milk_coffee kafeinagabe,0.0
+521,55reHHf,milk_coffee kafeinagabe,0.0
+522,5pVcV5V,milk_coffee kafeinagabe,0.0
+523,93xlxT,milk_coffee kafeinagabe,0.0
+524,CCMAqXtVdM,milk_coffee kafeinagabe,0.0
+525,CkfZksM2rBrL,milk_coffee kafeinagabe,0.0
+526,CuAgSlJwl,milk_coffee kafeinagabe,0.0030211480362537764
+527,D6F0qp7s7,milk_coffee kafeinagabe,0.0
+528,F96Kv,milk_coffee kafeinagabe,0.0
+529,FHZemZ,milk_coffee kafeinagabe,0.0
+530,FmxgvxmU,milk_coffee kafeinagabe,0.0
+531,I3RXU,milk_coffee kafeinagabe,0.0
+532,IQtg13hB,milk_coffee kafeinagabe,0.0
+533,M8TX69h8,milk_coffee kafeinagabe,0.0
+534,OCUnH,milk_coffee kafeinagabe,0.0
+535,OJwzAJ33l,milk_coffee kafeinagabe,0.0
+536,P5BAwzTfB,milk_coffee kafeinagabe,0.0
+537,TRFKSXv,milk_coffee kafeinagabe,0.0
+538,Vhpk5shpkk,milk_coffee kafeinagabe,0.0
+539,Yx3rQ,milk_coffee kafeinagabe,0.0
+540,anH4HDH,milk_coffee kafeinagabe,0.0
+541,d4guBrpB,milk_coffee kafeinagabe,0.0
+542,fJlBu,milk_coffee kafeinagabe,0.0
+543,gKUuuzg9,milk_coffee kafeinagabe,0.0
+544,ieuWQ,milk_coffee kafeinagabe,0.0
+545,iia5SP5,milk_coffee kafeinagabe,0.0
+546,jb1CjU1HF,milk_coffee kafeinagabe,0.0
+547,larri45h,milk_coffee kafeinagabe,0.0
+548,oS7WZT0,milk_coffee kafeinagabe,0.0
+549,qpzNDzybrsi,milk_coffee kafeinagabe,0.0
+550,sZfLY,milk_coffee kafeinagabe,0.0
+551,uhDooz5uD,milk_coffee kafeinagabe,0.0
+552,vRXyI,milk_coffee kafeinagabe,0.0
+553,ws0cho3,milk_coffee kafeinagabe,0.0
+554,ymETMF4M4,milk_coffee kafeinagabe,0.0
+555,0WFqeFiPx3K,txokolate white,0.0
+556,0a4Qn,txokolate white,0.3
+557,2qDLEBNv,txokolate white,0.0
+558,55reHHf,txokolate white,0.0
+559,5pVcV5V,txokolate white,0.0
+560,93xlxT,txokolate white,0.0
+561,CCMAqXtVdM,txokolate white,0.0
+562,CkfZksM2rBrL,txokolate white,0.0
+563,CuAgSlJwl,txokolate white,0.0
+564,D6F0qp7s7,txokolate white,0.0
+565,F96Kv,txokolate white,0.0
+566,FHZemZ,txokolate white,0.0
+567,FmxgvxmU,txokolate white,0.0
+568,I3RXU,txokolate white,0.0
+569,IQtg13hB,txokolate white,0.0
+570,M8TX69h8,txokolate white,0.0
+571,OCUnH,txokolate white,0.0
+572,OJwzAJ33l,txokolate white,0.0
+573,P5BAwzTfB,txokolate white,0.0
+574,TRFKSXv,txokolate white,0.0
+575,Vhpk5shpkk,txokolate white,0.0
+576,Yx3rQ,txokolate white,0.0
+577,anH4HDH,txokolate white,0.0
+578,d4guBrpB,txokolate white,0.0
+579,fJlBu,txokolate white,-0.6666666666666666
+580,gKUuuzg9,txokolate white,0.0
+581,ieuWQ,txokolate white,0.0
+582,iia5SP5,txokolate white,0.0
+583,jb1CjU1HF,txokolate white,0.0
+584,larri45h,txokolate white,0.0
+585,oS7WZT0,txokolate white,0.0
+586,qpzNDzybrsi,txokolate white,0.0
+587,sZfLY,txokolate white,0.0
+588,uhDooz5uD,txokolate white,0.0
+589,vRXyI,txokolate white,0.0
+590,ws0cho3,txokolate white,0.0
+591,ymETMF4M4,txokolate white,0.0
